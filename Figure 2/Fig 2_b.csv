@@ -1,0 +1,28 @@
+Index,Category,Count
+GC TOF-MS,"Amines, hexosamines and alkaloids",20
+GC TOF-MS,Amino acid related,14
+GC TOF-MS,Carbohydrates,18
+GC TOF-MS,Carboxylic acids,77
+GC TOF-MS,Cofactor-related,9
+GC TOF-MS,Fatty acids and lipids,9
+GC TOF-MS,Non-proteinogenic amino acids,17
+GC TOF-MS,Nucleotide-related,38
+GC TOF-MS,Phenolics,30
+GC TOF-MS,Sulfur-containing metabolites,5
+GC TOF-MS,Terpenoids,6
+GCMS-TQ8040,"Amines, hexosamines and alkaloids",6
+GCMS-TQ8040,Amino acid related,6
+GCMS-TQ8040,Carbohydrates,19
+GCMS-TQ8040,Carboxylic acids,20
+GCMS-TQ8040,Fatty acids and lipids,2
+GCMS-TQ8040,Non-proteinogenic amino acids,5
+GCMS-TQ8040,Nucleotide-related,2
+QTRAP 4000,"Amines, hexosamines and alkaloids",7
+QTRAP 4000,Amino acid related,11
+QTRAP 4000,Carbohydrates,43
+QTRAP 4000,Carboxylic acids,57
+QTRAP 4000,Fatty acids and lipids,9
+QTRAP 4000,Non-proteinogenic amino acids,11
+QTRAP 4000,Nucleotide-related,5
+QTRAP 4000,Phenolics,1
+QTRAP 4000,Sulfur-containing metabolites,1
