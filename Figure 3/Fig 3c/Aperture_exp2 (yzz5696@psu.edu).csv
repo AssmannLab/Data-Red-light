@@ -1,0 +1,1332 @@
+Treatment,treat,Group,Aperture
+Pre,A,A,6.238
+Pre,A,A,1.973
+Pre,A,A,1.559
+Pre,A,A,4.264
+Pre,A,A,3.658
+Pre,A,A,5.621
+Pre,A,A,2.095
+Pre,A,A,4.533
+Pre,A,A,1.633
+Pre,A,A,1.528
+Pre,A,A,1.833
+Pre,A,A,1.066
+Pre,A,A,4.744
+Pre,A,A,2.804
+Pre,A,A,3.567
+Pre,A,A,3.922
+Pre,A,A,0.437
+Pre,A,A,1.983
+Pre,A,A,2.983
+Pre,A,A,3.969
+Pre,A,A,2.819
+Pre,A,A,2.783
+Pre,A,A,1.601
+Pre,A,A,1.819
+Pre,A,A,2.87
+Pre,A,A,2.892
+Pre,A,A,2.732
+Pre,A,A,3.536
+Pre,A,A,2.994
+Pre,A,A,3.267
+Pre,A,A,1.339
+Pre,A,A,1.163
+Pre,A,A,1.68
+Pre,A,A,2.425
+Pre,A,A,2.848
+Pre,A,A,1.899
+Pre,A,A,1.842
+Pre,A,A,3.045
+Pre,A,A,3.028
+Pre,A,A,4.429
+Pre,A,A,2.121
+Pre,A,A,3.21
+Pre,A,A,2.688
+Pre,A,A,3.006
+Pre,A,A,2.978
+Pre,A,A,4.665
+Pre,A,A,2.871
+Pre,A,A,1.939
+Pre,A,A,2.966
+Pre,A,A,3.571
+Pre,A,A,4.171
+Pre,A,A,1.266
+Pre,A,A,0.81
+Pre,A,A,2.747
+Pre,A,A,3.965
+Pre,A,A,2.539
+Pre,A,A,2.047
+Pre,A,A,2.599
+Pre,A,A,3.037
+Pre,A,A,1.616
+Pre,A,A,1.479
+Pre,A,A,1.887
+Pre,A,A,2.463
+Pre,A,A,3.222
+Pre,A,A,1.583
+Pre,A,A,6.334
+Pre,A,A,0.736
+Pre,A,A,2.848
+Pre,A,A,1.973
+Pre,A,A,1.818
+Pre,A,A,2.178
+Pre,A,A,3.382
+Pre,A,A,3.868
+Pre,A,A,0.669
+Pre,A,A,4.833
+Pre,A,A,1.438
+Pre,A,A,0.537
+Pre,A,A,1.779
+Pre,A,A,3.922
+Pre,A,A,0.708
+Pre,A,A,2.466
+Pre,A,A,2.709
+Pre,A,A,4.523
+Dark ,B,B,0.266
+Dark ,B,B,1.39
+Dark ,B,B,0.126
+Dark ,B,B,0.32
+Dark ,B,B,0.133
+Dark ,B,B,0.397
+Dark ,B,B,0.388
+Dark ,B,B,0.133
+Dark ,B,B,0.14
+Dark ,B,B,0.251
+Dark ,B,B,0.6
+Dark ,B,B,0.805
+Dark ,B,B,1.518
+Dark ,B,B,1.908
+Dark ,B,B,1.487
+Dark ,B,B,1.472
+Dark ,B,B,2.903
+Dark ,B,B,2.494
+Dark ,B,B,0.838
+Dark ,B,B,2.943
+Dark ,B,B,0.81
+Dark ,B,B,1.017
+Dark ,B,B,3.58
+Dark ,B,B,0.732
+Dark ,B,B,0.759
+Dark ,B,B,2.214
+Dark ,B,B,0.178
+Dark ,B,B,1.435
+Dark ,B,B,0.916
+Dark ,B,B,2.672
+Dark ,B,B,0.251
+Dark ,B,B,0.333
+Dark ,B,B,1.455
+Dark ,B,B,0.366
+Dark ,B,B,0.366
+Dark ,B,B,0.88
+Dark ,B,B,1.487
+Dark ,B,B,0.133
+Dark ,B,B,0.961
+Dark ,B,B,0.063
+Dark ,B,B,0.48
+Dark ,B,B,0.141
+Dark ,B,B,0.074
+Dark ,B,B,0.4
+Dark ,B,B,0.914
+Dark ,B,B,0.333
+Dark ,B,B,1.281
+Dark ,B,B,1.228
+Dark ,B,B,2.562
+Dark ,B,B,0.178
+Dark ,B,B,0.199
+Dark ,B,B,0.067
+Dark ,B,B,0.126
+Dark ,B,B,0.27
+Dark ,B,B,0.266
+Dark ,B,B,0.843
+Dark ,B,B,0.377
+Dark ,B,B,0.862
+Dark ,B,B,3.729
+Dark ,B,B,0.934
+Dark ,B,B,0.64
+Dark ,B,B,0.188
+Dark ,B,B,1.084
+"Red light, PH=6.5",0mM,C,3.571
+"Red light, PH=6.5",0mM,C,2.504
+"Red light, PH=6.5",0mM,C,4.888
+"Red light, PH=6.5",0mM,C,3.571
+"Red light, PH=6.5",0mM,C,3.093
+"Red light, PH=6.5",0mM,C,3.393
+"Red light, PH=6.5",0mM,C,2.327
+"Red light, PH=6.5",0mM,C,2.323
+"Red light, PH=6.5",0mM,C,1.248
+"Red light, PH=6.5",0mM,C,1.867
+"Red light, PH=6.5",0mM,C,1.752
+"Red light, PH=6.5",0mM,C,0.478
+"Red light, PH=6.5",0mM,C,1.165
+"Red light, PH=6.5",0mM,C,1.243
+"Red light, PH=6.5",0mM,C,3.434
+"Red light, PH=6.5",0mM,C,0.222
+"Red light, PH=6.5",0mM,C,2.11
+"Red light, PH=6.5",0mM,C,1.405
+"Red light, PH=6.5",0mM,C,0.283
+"Red light, PH=6.5",0mM,C,0.628
+"Red light, PH=6.5",0mM,C,0.149
+"Red light, PH=6.5",0mM,C,2.264
+"Red light, PH=6.5",0mM,C,0.732
+"Red light, PH=6.5",0mM,C,6.534
+"Red light, PH=6.5",0mM,C,4.22
+"Red light, PH=6.5",0mM,C,1.895
+"Red light, PH=6.5",0mM,C,3.9
+"Red light, PH=6.5",0mM,C,2.998
+"Red light, PH=6.5",0mM,C,4.772
+"Red light, PH=6.5",0mM,C,0.947
+"Red light, PH=6.5",0mM,C,2.834
+"Red light, PH=6.5",0mM,C,1.574
+"Red light, PH=6.5",0mM,C,3.072
+"Red light, PH=6.5",0mM,C,1.288
+"Red light, PH=6.5",0mM,C,1.239
+"Red light, PH=6.5",0mM,C,1.511
+"Red light, PH=6.5",0mM,C,0.711
+"Red light, PH=6.5",0mM,C,3.711
+"Red light, PH=6.5",0mM,C,0.894
+"Red light, PH=6.5",0mM,C,1.424
+"Red light, PH=6.5",0mM,C,2.266
+"Red light, PH=6.5",0mM,C,3.329
+"Red light, PH=6.5",0mM,C,7.092
+"Red light, PH=6.5",0mM,C,4.23
+"Red light, PH=6.5",0mM,C,3.74
+"Red light, PH=6.5",0mM,C,3.457
+"Red light, PH=6.5",0mM,C,3.202
+"Red light, PH=6.5",0mM,C,2.303
+"Red light, PH=6.5",0mM,C,2.944
+"Red light, PH=6.5",0mM,C,0.804
+"Red light, PH=6.5",0mM,C,1.293
+"Red light, PH=6.5",0mM,C,2.892
+"Red light, PH=6.5",0mM,C,0.799
+"Red light, PH=6.5",0mM,C,1.601
+"Red light, PH=6.5",0mM,C,4.124
+"Red light, PH=6.5",0mM,C,2.718
+"Red light, PH=6.5",0mM,C,4.159
+"Red light, PH=6.5",0mM,C,1.519
+"Red light, PH=6.5",0mM,C,2.472
+"Red light, PH=6.5",0mM,C,2.77
+"Red light, PH=6.5",0mM,C,2.36
+"Red light, PH=6.5",0mM,C,2.503
+"Red light, PH=6.5",0mM,C,2.085
+"Red light, PH=6.5",0mM,C,1.231
+"Red light, PH=6.5",0mM,C,2.942
+"Red light, PH=6.5",0mM,C,5.255
+"Red light, PH=6.5",0mM,C,0.562
+"Red light, PH=6.5",0mM,C,3.731
+"Red light, PH=6.5",0mM,C,1.237
+"Red light, PH=6.5",0mM,C,1.17
+"Red light, PH=6.5",0mM,C,1.155
+"Red light, PH=6.5",0mM,C,1.601
+"Red light, PH=6.5",0mM,C,3.267
+"Red light, PH=6.5",0mM,C,0.893
+"Red light, PH=6.5",0mM,C,0.716
+"Red light, PH=6.5",0mM,C,0.843
+"Red light, PH=6.5",0mM,C,1.955
+"Red light, PH=6.5",0mM,C,1.066
+"Red light, PH=6.5",0mM,C,3.071
+"Red light, PH=6.5",0mM,C,1.199
+"Red light, PH=6.5",0mM,C,3.167
+"Red light, PH=6.5",0mM,C,0.686
+"Red light, PH=6.5",0mM,C,1.759
+"Red light, PH=6.5",0mM,C,2.133
+"Red light, PH=6.5",0mM,C,3.794
+"Red light, PH=6.5",0mM,C,1.659
+"Red light, PH=6.5",0mM,C,1.208
+"Red light, PH=6.5",0mM,C,1.4
+"Red light, PH=6.5",0.4mM,D,3.343
+"Red light, PH=6.5",0.4mM,D,1.335
+"Red light, PH=6.5",0.4mM,D,4.658
+"Red light, PH=6.5",0.4mM,D,4.561
+"Red light, PH=6.5",0.4mM,D,2.119
+"Red light, PH=6.5",0.4mM,D,1.293
+"Red light, PH=6.5",0.4mM,D,1.595
+"Red light, PH=6.5",0.4mM,D,2.522
+"Red light, PH=6.5",0.4mM,D,1.763
+"Red light, PH=6.5",0.4mM,D,1.336
+"Red light, PH=6.5",0.4mM,D,0.894
+"Red light, PH=6.5",0.4mM,D,4.394
+"Red light, PH=6.5",0.4mM,D,1.888
+"Red light, PH=6.5",0.4mM,D,4.33
+"Red light, PH=6.5",0.4mM,D,4.141
+"Red light, PH=6.5",0.4mM,D,1.996
+"Red light, PH=6.5",0.4mM,D,4.009
+"Red light, PH=6.5",0.4mM,D,1.192
+"Red light, PH=6.5",0.4mM,D,3.639
+"Red light, PH=6.5",0.4mM,D,0.569
+"Red light, PH=6.5",0.4mM,D,1.55
+"Red light, PH=6.5",0.4mM,D,4.105
+"Red light, PH=6.5",0.4mM,D,1.884
+"Red light, PH=6.5",0.4mM,D,5.564
+"Red light, PH=6.5",0.4mM,D,0.819
+"Red light, PH=6.5",0.4mM,D,5.585
+"Red light, PH=6.5",0.4mM,D,2.194
+"Red light, PH=6.5",0.4mM,D,4.612
+"Red light, PH=6.5",0.4mM,D,4.381
+"Red light, PH=6.5",0.4mM,D,3.587
+"Red light, PH=6.5",0.4mM,D,1.555
+"Red light, PH=6.5",0.4mM,D,1.522
+"Red light, PH=6.5",0.4mM,D,3.694
+"Red light, PH=6.5",0.4mM,D,2.658
+"Red light, PH=6.5",0.4mM,D,4.578
+"Red light, PH=6.5",0.4mM,D,0.869
+"Red light, PH=6.5",0.4mM,D,4.561
+"Red light, PH=6.5",0.4mM,D,3.075
+"Red light, PH=6.5",0.4mM,D,1.247
+"Red light, PH=6.5",0.4mM,D,2.857
+"Red light, PH=6.5",0.4mM,D,4.946
+"Red light, PH=6.5",0.4mM,D,4.326
+"Red light, PH=6.5",0.4mM,D,4.367
+"Red light, PH=6.5",0.4mM,D,1.155
+"Red light, PH=6.5",0.4mM,D,3.961
+"Red light, PH=6.5",0.4mM,D,2.039
+"Red light, PH=6.5",0.4mM,D,3.779
+"Red light, PH=6.5",0.4mM,D,4.862
+"Red light, PH=6.5",0.4mM,D,1.155
+"Red light, PH=6.5",0.4mM,D,4.234
+"Red light, PH=6.5",0.4mM,D,2.082
+"Red light, PH=6.5",0.4mM,D,2.871
+"Red light, PH=6.5",0.4mM,D,4.197
+"Red light, PH=6.5",0.4mM,D,1.727
+"Red light, PH=6.5",0.4mM,D,4.13
+"Red light, PH=6.5",0.4mM,D,2.601
+"Red light, PH=6.5",0.4mM,D,1.367
+"Red light, PH=6.5",0.4mM,D,2.882
+"Red light, PH=6.5",0.4mM,D,2.662
+"Red light, PH=6.5",0.4mM,D,3.754
+"Red light, PH=6.5",0.4mM,D,3.644
+"Red light, PH=6.5",0.4mM,D,3.748
+"Red light, PH=6.5",0.4mM,D,2.297
+"Red light, PH=6.5",0.4mM,D,2.449
+"Red light, PH=6.5",0.4mM,D,3.085
+"Red light, PH=6.5",0.4mM,D,1.503
+"Red light, PH=6.5",0.4mM,D,2.222
+"Red light, PH=6.5",0.4mM,D,3.222
+"Red light, PH=6.5",0.4mM,D,1.423
+"Red light, PH=6.5",0.4mM,D,2.004
+"Red light, PH=6.5",0.4mM,D,1.538
+"Red light, PH=6.5",0.4mM,D,2.067
+"Red light, PH=6.5",0.4mM,D,1.505
+"Red light, PH=6.5",0.4mM,D,1.669
+"Red light, PH=6.5",0.4mM,D,1.913
+"Red light, PH=6.5",0.4mM,D,1.901
+"Red light, PH=6.5",0.4mM,D,1.821
+"Red light, PH=6.5",0.4mM,D,2.808
+"Red light, PH=6.5",0.4mM,D,4.251
+"Red light, PH=6.5",0.4mM,D,3.855
+"Red light, PH=6.5",0.4mM,D,3.343
+"Red light, PH=6.5",0.4mM,D,4.271
+"Red light, PH=6.5",0.4mM,D,5.729
+"Red light, PH=6.5",0.4mM,D,2.738
+"Red light, PH=6.5",0.4mM,D,2.543
+"Red light, PH=6.5",0.4mM,D,5.125
+"Red light, PH=6.5",0.4mM,D,4.312
+"Red light, PH=6.5",0.4mM,D,3.16
+"Red light, PH=6.5",0.4mM,D,3.482
+"Red light, PH=6.5",1mM,E,2.938
+"Red light, PH=6.5",1mM,E,4.467
+"Red light, PH=6.5",1mM,E,3.181
+"Red light, PH=6.5",1mM,E,3.497
+"Red light, PH=6.5",1mM,E,2.848
+"Red light, PH=6.5",1mM,E,1.829
+"Red light, PH=6.5",1mM,E,2.823
+"Red light, PH=6.5",1mM,E,2.698
+"Red light, PH=6.5",1mM,E,3.287
+"Red light, PH=6.5",1mM,E,2.956
+"Red light, PH=6.5",1mM,E,2.807
+"Red light, PH=6.5",1mM,E,3.7
+"Red light, PH=6.5",1mM,E,6.651
+"Red light, PH=6.5",1mM,E,4.592
+"Red light, PH=6.5",1mM,E,3.802
+"Red light, PH=6.5",1mM,E,3.382
+"Red light, PH=6.5",1mM,E,3.772
+"Red light, PH=6.5",1mM,E,2.239
+"Red light, PH=6.5",1mM,E,3.264
+"Red light, PH=6.5",1mM,E,7.633
+"Red light, PH=6.5",1mM,E,1.228
+"Red light, PH=6.5",1mM,E,3.393
+"Red light, PH=6.5",1mM,E,3.384
+"Red light, PH=6.5",1mM,E,4.11
+"Red light, PH=6.5",1mM,E,1.426
+"Red light, PH=6.5",1mM,E,5.542
+"Red light, PH=6.5",1mM,E,3.09
+"Red light, PH=6.5",1mM,E,1.79
+"Red light, PH=6.5",1mM,E,4.364
+"Red light, PH=6.5",1mM,E,2.119
+"Red light, PH=6.5",1mM,E,5.602
+"Red light, PH=6.5",1mM,E,2.788
+"Red light, PH=6.5",1mM,E,1.196
+"Red light, PH=6.5",1mM,E,3.997
+"Red light, PH=6.5",1mM,E,6.23
+"Red light, PH=6.5",1mM,E,2.392
+"Red light, PH=6.5",1mM,E,3.945
+"Red light, PH=6.5",1mM,E,3.517
+"Red light, PH=6.5",1mM,E,1.626
+"Red light, PH=6.5",1mM,E,5.077
+"Red light, PH=6.5",1mM,E,1.895
+"Red light, PH=6.5",1mM,E,6.132
+"Red light, PH=6.5",1mM,E,5.336
+"Red light, PH=6.5",1mM,E,1.247
+"Red light, PH=6.5",1mM,E,5.596
+"Red light, PH=6.5",1mM,E,4.682
+"Red light, PH=6.5",1mM,E,2.004
+"Red light, PH=6.5",1mM,E,2.747
+"Red light, PH=6.5",1mM,E,3.541
+"Red light, PH=6.5",1mM,E,1.972
+"Red light, PH=6.5",1mM,E,2.443
+"Red light, PH=6.5",1mM,E,3.65
+"Red light, PH=6.5",1mM,E,3.136
+"Red light, PH=6.5",1mM,E,0.81
+"Red light, PH=6.5",1mM,E,2.612
+"Red light, PH=6.5",1mM,E,1.295
+"Red light, PH=6.5",1mM,E,1.457
+"Red light, PH=6.5",1mM,E,2.236
+"Red light, PH=6.5",1mM,E,2.228
+"Red light, PH=6.5",1mM,E,2.9
+"Red light, PH=6.5",1mM,E,3.832
+"Red light, PH=6.5",1mM,E,0.333
+"Red light, PH=6.5",1mM,E,1.914
+"Red light, PH=6.5",1mM,E,3.046
+"Red light, PH=6.5",1mM,E,1.737
+"Red light, PH=6.5",1mM,E,1.092
+"Red light, PH=6.5",1mM,E,4.234
+"Red light, PH=6.5",1mM,E,4.826
+"Red light, PH=6.5",1mM,E,3.496
+"Red light, PH=6.5",1mM,E,5.697
+"Red light, PH=6.5",1mM,E,5.4
+"Red light, PH=6.5",1mM,E,3.483
+"Red light, PH=6.5",1mM,E,5.857
+"Red light, PH=6.5",1mM,E,4.728
+"Red light, PH=6.5",1mM,E,6.532
+"Red light, PH=6.5",1mM,E,3.291
+"Red light, PH=6.5",1mM,E,2.331
+"Red light, PH=6.5",1mM,E,4.72
+"Red light, PH=6.5",1mM,E,3.005
+"Red light, PH=6.5",1mM,E,4.497
+"Red light, PH=6.5",1mM,E,3.86
+"Red light, PH=6.5",1mM,E,7.613
+"Red light, PH=6.5",1mM,E,2.553
+"Red light, PH=6.5",1mM,E,3.581
+"Red light, PH=6.5",1mM,E,2.011
+"Red light, PH=6.5",1mM,E,3.73
+"Red light, PH=6.5",1mM,E,3.217
+"Red light, PH=6.5",1mM,E,6.376
+"Red light, PH=6.5",1mM,E,2.391
+"Red light, PH=6.5",1mM,E,3.908
+"Red light, PH=6.5",1mM,E,4.089
+"Red light, PH=6.5",1mM,E,2.788
+"Red light, PH=6.5",1mM,E,2.929
+"Red light, PH=6.5",1mM,E,1.948
+"Red light, PH=6.5",1mM,E,3.754
+"Red light, PH=6.5",1mM,E,3.823
+"Red light, PH=6.5",30mM,F,0.444
+"Red light, PH=6.5",30mM,F,4.913
+"Red light, PH=6.5",30mM,F,1.551
+"Red light, PH=6.5",30mM,F,3.74
+"Red light, PH=6.5",30mM,F,2.141
+"Red light, PH=6.5",30mM,F,2.743
+"Red light, PH=6.5",30mM,F,0.647
+"Red light, PH=6.5",30mM,F,2.503
+"Red light, PH=6.5",30mM,F,1.068
+"Red light, PH=6.5",30mM,F,2.073
+"Red light, PH=6.5",30mM,F,3.197
+"Red light, PH=6.5",30mM,F,3.339
+"Red light, PH=6.5",30mM,F,0.359
+"Red light, PH=6.5",30mM,F,0.666
+"Red light, PH=6.5",30mM,F,3.418
+"Red light, PH=6.5",30mM,F,3.585
+"Red light, PH=6.5",30mM,F,1.732
+"Red light, PH=6.5",30mM,F,3.252
+"Red light, PH=6.5",30mM,F,2.107
+"Red light, PH=6.5",30mM,F,0.961
+"Red light, PH=6.5",30mM,F,1.103
+"Red light, PH=6.5",30mM,F,3.465
+"Red light, PH=6.5",30mM,F,1.066
+"Red light, PH=6.5",30mM,F,2.586
+"Red light, PH=6.5",30mM,F,2.771
+"Red light, PH=6.5",30mM,F,0.986
+"Red light, PH=6.5",30mM,F,1.946
+"Red light, PH=6.5",30mM,F,7.034
+"Red light, PH=6.5",30mM,F,5.411
+"Red light, PH=6.5",30mM,F,3.523
+"Red light, PH=6.5",30mM,F,4.158
+"Red light, PH=6.5",30mM,F,2.882
+"Red light, PH=6.5",30mM,F,1.282
+"Red light, PH=6.5",30mM,F,3.679
+"Red light, PH=6.5",30mM,F,2.665
+"Red light, PH=6.5",30mM,F,4.441
+"Red light, PH=6.5",30mM,F,2.665
+"Red light, PH=6.5",30mM,F,2.934
+"Red light, PH=6.5",30mM,F,4.205
+"Red light, PH=6.5",30mM,F,5.024
+"Red light, PH=6.5",30mM,F,5.542
+"Red light, PH=6.5",30mM,F,4.3
+"Red light, PH=6.5",30mM,F,4.828
+"Red light, PH=6.5",30mM,F,7.513
+"Red light, PH=6.5",30mM,F,4.181
+"Red light, PH=6.5",30mM,F,6.056
+"Red light, PH=6.5",30mM,F,4.737
+"Red light, PH=6.5",30mM,F,3.358
+"Red light, PH=6.5",30mM,F,3.924
+"Red light, PH=6.5",30mM,F,2.598
+"Red light, PH=6.5",30mM,F,3.319
+"Red light, PH=6.5",30mM,F,3.239
+"Red light, PH=6.5",30mM,F,4.898
+"Red light, PH=6.5",30mM,F,2.683
+"Red light, PH=6.5",30mM,F,2.736
+"Red light, PH=6.5",30mM,F,4.35
+"Red light, PH=6.5",30mM,F,1.75
+"Red light, PH=6.5",30mM,F,0.879
+"Red light, PH=6.5",30mM,F,1.053
+"Red light, PH=6.5",30mM,F,1.966
+"Red light, PH=6.5",30mM,F,0.843
+"Red light, PH=6.5",30mM,F,0.52
+"Red light, PH=6.5",30mM,F,0.54
+"Red light, PH=6.5",30mM,F,0.777
+"Red light, PH=6.5",30mM,F,0.4
+"Red light, PH=6.5",30mM,F,0.819
+"Red light, PH=6.5",30mM,F,0.466
+"Red light, PH=6.5",30mM,F,0.603
+"Red light, PH=6.5",30mM,F,0.533
+"Red light, PH=6.5",30mM,F,0.4
+"Red light, PH=6.5",30mM,F,2.081
+"Red light, PH=6.5",30mM,F,0.802
+"Red light, PH=6.5",30mM,F,0.266
+"Red light, PH=6.5",30mM,F,0.266
+"Red light, PH=6.5",30mM,F,1.354
+"Red light, PH=6.5",30mM,F,0.383
+"Red light, PH=6.5",30mM,F,3.997
+"Red light, PH=6.5",30mM,F,2.073
+"Red light, PH=6.5",30mM,F,1.411
+"Red light, PH=6.5",30mM,F,1.746
+"Red light, PH=6.5",30mM,F,5.295
+"Red light, PH=6.5",30mM,F,5.723
+"Red light, PH=6.5",30mM,F,2.807
+"Red light, PH=6.5",30mM,F,2.52
+"Red light, PH=6.5",30mM,F,3.872
+"Red light, PH=6.5",30mM,F,1.07
+"Red light, PH=6.5",30mM,F,3.244
+"Red light, PH=6.5",30mM,F,4.529
+"Red light, PH=6.5",30mM,F,5.898
+"Red light, PH=6.5",30mM,F,3.527
+"Red light, PH=6.5",30mM,F,4.14
+"Red light, PH=6.5",50mM,G,5.309
+"Red light, PH=6.5",50mM,G,4.693
+"Red light, PH=6.5",50mM,G,3.468
+"Red light, PH=6.5",50mM,G,3.464
+"Red light, PH=6.5",50mM,G,5.579
+"Red light, PH=6.5",50mM,G,2.004
+"Red light, PH=6.5",50mM,G,0.347
+"Red light, PH=6.5",50mM,G,5.564
+"Red light, PH=6.5",50mM,G,2.025
+"Red light, PH=6.5",50mM,G,0.694
+"Red light, PH=6.5",50mM,G,0.666
+"Red light, PH=6.5",50mM,G,4.265
+"Red light, PH=6.5",50mM,G,1.195
+"Red light, PH=6.5",50mM,G,1.574
+"Red light, PH=6.5",50mM,G,2.01
+"Red light, PH=6.5",50mM,G,1.962
+"Red light, PH=6.5",50mM,G,3.326
+"Red light, PH=6.5",50mM,G,3.017
+"Red light, PH=6.5",50mM,G,1.446
+"Red light, PH=6.5",50mM,G,3.794
+"Red light, PH=6.5",50mM,G,1.779
+"Red light, PH=6.5",50mM,G,2.234
+"Red light, PH=6.5",50mM,G,2.998
+"Red light, PH=6.5",50mM,G,1.936
+"Red light, PH=6.5",50mM,G,2.487
+"Red light, PH=6.5",50mM,G,3.397
+"Red light, PH=6.5",50mM,G,2.802
+"Red light, PH=6.5",50mM,G,3.944
+"Red light, PH=6.5",50mM,G,2.807
+"Red light, PH=6.5",50mM,G,1.322
+"Red light, PH=6.5",50mM,G,1.962
+"Red light, PH=6.5",50mM,G,3.731
+"Red light, PH=6.5",50mM,G,1
+"Red light, PH=6.5",50mM,G,3.401
+"Red light, PH=6.5",50mM,G,4.515
+"Red light, PH=6.5",50mM,G,5.484
+"Red light, PH=6.5",50mM,G,3.114
+"Red light, PH=6.5",50mM,G,1.826
+"Red light, PH=6.5",50mM,G,2.741
+"Red light, PH=6.5",50mM,G,2.959
+"Red light, PH=6.5",50mM,G,1.059
+"Red light, PH=6.5",50mM,G,5.091
+"Red light, PH=6.5",50mM,G,3.143
+"Red light, PH=6.5",50mM,G,0.089
+"Red light, PH=6.5",50mM,G,2.468
+"Red light, PH=6.5",50mM,G,1.424
+"Red light, PH=6.5",50mM,G,1.907
+"Red light, PH=6.5",50mM,G,2.582
+"Red light, PH=6.5",50mM,G,1.698
+"Red light, PH=6.5",50mM,G,2.49
+"Red light, PH=6.5",50mM,G,1.842
+"Red light, PH=6.5",50mM,G,1.356
+"Red light, PH=6.5",50mM,G,1.605
+"Red light, PH=6.5",50mM,G,1.609
+"Red light, PH=6.5",50mM,G,0.79
+"Red light, PH=6.5",50mM,G,1.785
+"Red light, PH=6.5",50mM,G,2.128
+"Red light, PH=6.5",50mM,G,3.757
+"Red light, PH=6.5",50mM,G,0.858
+"Red light, PH=6.5",50mM,G,1.842
+"Red light, PH=6.5",50mM,G,2.073
+"Red light, PH=6.5",50mM,G,0.535
+"Red light, PH=6.5",50mM,G,1.507
+"Red light, PH=6.5",50mM,G,4.199
+"Red light, PH=6.5",50mM,G,0.562
+"Red light, PH=6.5",50mM,G,0.52
+"Red light, PH=6.5",50mM,G,1.137
+"Red light, PH=6.5",50mM,G,0.427
+"Red light, PH=6.5",50mM,G,1.199
+"Red light, PH=6.5",50mM,G,2.177
+"Red light, PH=6.5",50mM,G,2.465
+"Red light, PH=6.5",50mM,G,0.679
+"Red light, PH=6.5",50mM,G,1.373
+"Red light, PH=6.5",50mM,G,0.824
+"Red light, PH=6.5",50mM,G,1.746
+"Red light, PH=6.5",50mM,G,2.106
+"Red light, PH=6.5",50mM,G,2.858
+"Red light, PH=6.5",50mM,G,0.083
+"Red light, PH=6.5",50mM,G,1.45
+"Red light, PH=6.5",50mM,G,1.594
+"Red light, PH=6.5",50mM,G,1.534
+"Red light, PH=6.5",50mM,G,1.872
+"Red light, PH=6.5",50mM,G,2.292
+"Red light, PH=6.5",50mM,G,1.635
+"Red light, PH=6.5",50mM,G,1.831
+"Red light, PH=6.5",50mM,G,1.931
+"Red light, PH=6.5",50mM,G,2.252
+"Red light, PH=6.5",50mM,G,3.35
+"Red light, PH=6.5",50mM,G,3.831
+"Red light, PH=6.5",50mM,G,2.354
+"Red light, PH=6.5",50mM,G,1.821
+"Red light, PH=6.5",50mM,G,2.143
+"Red light, PH=6.5",50mM,G,3.071
+"Red light, PH=6.5",50mM,G,1.293
+"Red light, PH=6.5",50mM,G,3.496
+"Red light, PH=6.5",50mM,G,1.037
+"Red light, PH=6.5",50mM,G,2.591
+"Red light, PH=6.5",50mM,G,1.962
+"Red light, PH=6.5",50mM,G,2.598
+"Red light, PH=6.5",50mM,G,2.545
+"Red light, PH=6.5",50mM,G,1.987
+"Red light, PH=6.5",50mM,G,3.955
+"Red light, PH=6.5",50mM,G,1.554
+"Red light, PH=6.5",50mM,G,1.554
+"Red light, PH=6.5",50mM,G,4.809
+"Red light, PH=6.5",50mM,G,2.439
+"Red light, PH=6.5",50mM,G,3.131
+"Red light, PH=6.5",50mM,G,2.254
+"Red light, PH=6.5",50mM,G,1.158
+"Red light, PH=6.5",50mM,G,2.39
+"Red light, PH=6.5",50mM,G,2.755
+"Red light, PH=6.5",50mM,G,1.163
+"Red light, PH=6.5",50mM,G,1.201
+"Red light, PH=6.5",50mM,G,3.4
+"Red light, PH=6.5",100mM,H,2.553
+"Red light, PH=6.5",100mM,H,1.373
+"Red light, PH=6.5",100mM,H,0.754
+"Red light, PH=6.5",100mM,H,1.507
+"Red light, PH=6.5",100mM,H,0.926
+"Red light, PH=6.5",100mM,H,0.777
+"Red light, PH=6.5",100mM,H,0.666
+"Red light, PH=6.5",100mM,H,1.293
+"Red light, PH=6.5",100mM,H,0.495
+"Red light, PH=6.5",100mM,H,0.333
+"Red light, PH=6.5",100mM,H,0.716
+"Red light, PH=6.5",100mM,H,0.716
+"Red light, PH=6.5",100mM,H,2.551
+"Red light, PH=6.5",100mM,H,1.907
+"Red light, PH=6.5",100mM,H,0.99
+"Red light, PH=6.5",100mM,H,1.621
+"Red light, PH=6.5",100mM,H,0.999
+"Red light, PH=6.5",100mM,H,0.78
+"Red light, PH=6.5",100mM,H,0.866
+"Red light, PH=6.5",100mM,H,0.927
+"Red light, PH=6.5",100mM,H,0.802
+"Red light, PH=6.5",100mM,H,0.786
+"Red light, PH=6.5",100mM,H,0.408
+"Red light, PH=6.5",100mM,H,0.854
+"Red light, PH=6.5",100mM,H,0.314
+"Red light, PH=6.5",100mM,H,0.366
+"Red light, PH=6.5",100mM,H,0.614
+"Red light, PH=6.5",100mM,H,0.731
+"Red light, PH=6.5",100mM,H,0.62
+"Red light, PH=6.5",100mM,H,1.615
+"Red light, PH=6.5",100mM,H,0.427
+"Red light, PH=6.5",100mM,H,1.084
+"Red light, PH=6.5",100mM,H,0.721
+"Red light, PH=6.5",100mM,H,0.899
+"Red light, PH=6.5",100mM,H,0.453
+"Red light, PH=6.5",100mM,H,1.405
+"Red light, PH=6.5",100mM,H,0.259
+"Red light, PH=6.5",100mM,H,0.379
+"Red light, PH=6.5",100mM,H,0.716
+"Red light, PH=6.5",100mM,H,0.728
+"Red light, PH=6.5",100mM,H,0.62
+"Red light, PH=6.5",100mM,H,0.284
+"Red light, PH=6.5",100mM,H,0.643
+"Red light, PH=6.5",100mM,H,0.824
+"Red light, PH=6.5",100mM,H,1.297
+"Red light, PH=6.5",100mM,H,0.38
+"Red light, PH=6.5",100mM,H,1.577
+"Red light, PH=6.5",100mM,H,0.126
+"Red light, PH=6.5",100mM,H,0.533
+"Red light, PH=6.5",100mM,H,0.485
+"Red light, PH=6.5",100mM,H,1.158
+"Red light, PH=6.5",100mM,H,0.537
+"Red light, PH=6.5",100mM,H,0.759
+"Red light, PH=6.5",100mM,H,3.2
+"Red light, PH=6.5",100mM,H,2.398
+"Red light, PH=6.5",100mM,H,2.211
+"Red light, PH=6.5",100mM,H,2.614
+"Red light, PH=6.5",100mM,H,2.15
+"Red light, PH=6.5",100mM,H,1.671
+"Red light, PH=6.5",100mM,H,2.641
+"Red light, PH=6.5",100mM,H,2.249
+"Red light, PH=6.5",100mM,H,0.133
+"Red light, PH=6.5",100mM,H,0.99
+"Red light, PH=6.5",100mM,H,2.205
+"Red light, PH=6.5",100mM,H,1.146
+"Red light, PH=6.5",100mM,H,0.978
+"Red light, PH=6.5",100mM,H,1.503
+"Red light, PH=6.5",100mM,H,0.927
+"Red light, PH=6.5",100mM,H,0.188
+"Red light, PH=6.5",100mM,H,0.813
+"Red light, PH=6.5",100mM,H,1.574
+"Red light, PH=6.5",100mM,H,1.629
+"Red light, PH=6.5",100mM,H,1.234
+"Red light, PH=6.5",100mM,H,0.447
+"Red light, PH=6.5",100mM,H,2.4
+"Red light, PH=6.5",100mM,H,2.641
+"Red light, PH=6.5",100mM,H,0.535
+"Red light, PH=6.5",100mM,H,0.419
+"Red light, PH=6.5",100mM,H,0.603
+"Red light, PH=6.5",100mM,H,1.155
+"Red light, PH=6.5",100mM,H,0.284
+"Red light, PH=6.5",100mM,H,3.872
+"Red light, PH=6.5",100mM,H,2.493
+"Red light, PH=6.5",100mM,H,2.497
+"Red light, PH=6.5",100mM,H,1.466
+"Red light, PH=6.5",100mM,H,2.045
+"Red light, PH=6.5",100mM,H,4.731
+"Red light, PH=6.5",100mM,H,1.626
+"Red light, PH=6.5",100mM,H,5.759
+"Red light, PH=6.5",100mM,H,4.308
+"Red light, PH=6.5",100mM,H,5.231
+"Red light, PH=6.5",100mM,H,4.101
+"Red light, PH=6.5",100mM,H,2.844
+"Red light, PH=6.5",100mM,H,4.649
+"Red light, PH=6.5",100mM,H,1.69
+"Red light, PH=6.5",100mM,H,2.106
+"Red light, PH=6.5",100mM,H,1.814
+"Red light, PH=6.5",100mM,H,1.8
+"Red light, PH=6.5",100mM,H,0.721
+"Red light, PH=6.5",100mM,H,0.298
+"Red light, PH=6.5",100mM,H,0.694
+"Red light, PH=6.5",100mM,H,0.631
+"Red light, PH=6.5",100mM,H,0.472
+"Red light, PH=6.5",100mM,H,0.48
+exp2,0mM,C,1.792
+exp2,0mM,C,1.413
+exp2,0mM,C,2.269
+exp2,0mM,C,3.487
+exp2,0mM,C,6.495
+exp2,0mM,C,3.202
+exp2,0mM,C,2.86
+exp2,0mM,C,4.476
+exp2,0mM,C,0.549
+exp2,0mM,C,2.073
+exp2,0mM,C,2.488
+exp2,0mM,C,2.754
+exp2,0mM,C,2.163
+exp2,0mM,C,3.11
+exp2,0mM,C,2.699
+exp2,0mM,C,2.487
+exp2,0mM,C,2.788
+exp2,0mM,C,3.343
+exp2,0mM,C,1.424
+exp2,0mM,C,2.699
+exp2,0mM,C,1.513
+exp2,0mM,C,3.932
+exp2,0mM,C,1.1
+exp2,0mM,C,0.6
+exp2,0mM,C,1.068
+exp2,0mM,C,0.764
+exp2,0mM,C,0.4
+exp2,0mM,C,0.2
+exp2,0mM,C,0.914
+exp2,0mM,C,2.882
+exp2,0mM,C,4.114
+exp2,0mM,C,1.981
+exp2,0mM,C,1.519
+exp2,0mM,C,3.759
+exp2,0mM,C,2.37
+exp2,0mM,C,6.596
+exp2,0mM,C,1.373
+exp2,0mM,C,2.775
+exp2,0mM,C,2.057
+exp2,0mM,C,0.614
+exp2,0mM,C,3.287
+exp2,0mM,C,2.854
+exp2,0mM,C,5.077
+exp2,0mM,C,3.566
+exp2,0mM,C,0.974
+exp2,0mM,C,5.43
+exp2,0mM,C,1.478
+exp2,0mM,C,3.313
+exp2,0mM,C,3.313
+exp2,0mM,C,2.403
+exp2,0mM,C,3.636
+exp2,0mM,C,1.688
+exp2,0mM,C,5.2
+exp2,0mM,C,3.497
+exp2,0mM,C,2.332
+exp2,0mM,C,1.252
+exp2,0mM,C,3.202
+exp2,0mM,C,5.47
+exp2,0mM,C,3.736
+exp2,0mM,C,2.388
+exp2,0mM,C,3.009
+exp2,0mM,C,1.51
+exp2,0mM,C,4.813
+exp2,0mM,C,3.296
+exp2,0mM,C,2.625
+exp2,0mM,C,2.653
+exp2,0mM,C,2.157
+exp2,0mM,C,1.017
+exp2,0mM,C,2.347
+exp2,0mM,C,4.767
+exp2,0mM,C,1.829
+exp2,0mM,C,1.866
+exp2,0mM,C,2.789
+exp2,0mM,C,1.638
+exp2,0mM,C,0.736
+exp2,0mM,C,0.388
+exp2,0mM,C,2.106
+exp2,0mM,C,2.444
+exp2,0mM,C,2.832
+exp2,0mM,C,2.306
+exp2,0mM,C,2.016
+exp2,0mM,C,1.51
+exp2,0mM,C,3.464
+exp2,0mM,C,4.115
+exp2,0mM,C,2.001
+exp2,0mM,C,1.863
+exp2,0mM,C,3.523
+exp2,0mM,C,5.487
+exp2,0mM,C,2.641
+exp2,0mM,C,2.715
+exp2,0mM,C,4.272
+exp2,0mM,C,1.908
+exp2,0mM,C,2.983
+exp2,0mM,C,3.301
+exp2,0mM,C,3.439
+exp2,0mM,C,3.07
+exp2,0mM,C,2.489
+exp2,0mM,C,1.698
+exp2,0mM,C,3.032
+exp2,0mM,C,2.818
+exp2,0mM,C,1.555
+exp2,0mM,C,3.74
+exp2,0mM,C,1.192
+exp2,0mM,C,3.642
+exp2,0mM,C,3.417
+exp2,0mM,C,2.462
+exp2,0.4mM,D,3.891
+exp2,0.4mM,D,4.714
+exp2,0.4mM,D,2.4
+exp2,0.4mM,D,4.686
+exp2,0.4mM,D,2.958
+exp2,0.4mM,D,4.87
+exp2,0.4mM,D,6.991
+exp2,0.4mM,D,2.986
+exp2,0.4mM,D,4.205
+exp2,0.4mM,D,3.016
+exp2,0.4mM,D,4.265
+exp2,0.4mM,D,3.646
+exp2,0.4mM,D,2.073
+exp2,0.4mM,D,7.438
+exp2,0.4mM,D,3.999
+exp2,0.4mM,D,6.325
+exp2,0.4mM,D,4.045
+exp2,0.4mM,D,9.451
+exp2,0.4mM,D,6.076
+exp2,0.4mM,D,5.938
+exp2,0.4mM,D,4.693
+exp2,0.4mM,D,3.812
+exp2,0.4mM,D,5.257
+exp2,0.4mM,D,5.091
+exp2,0.4mM,D,4.899
+exp2,0.4mM,D,6.284
+exp2,0.4mM,D,6.243
+exp2,0.4mM,D,6.812
+exp2,0.4mM,D,6.648
+exp2,0.4mM,D,4.453
+exp2,0.4mM,D,4.725
+exp2,0.4mM,D,4.374
+exp2,0.4mM,D,4.34
+exp2,0.4mM,D,2.624
+exp2,0.4mM,D,1.884
+exp2,0.4mM,D,2.986
+exp2,0.4mM,D,5.045
+exp2,0.4mM,D,6.264
+exp2,0.4mM,D,6.833
+exp2,0.4mM,D,5.257
+exp2,0.4mM,D,6.962
+exp2,0.4mM,D,6.742
+exp2,0.4mM,D,4.471
+exp2,0.4mM,D,8.814
+exp2,0.4mM,D,9.805
+exp2,0.4mM,D,6.395
+exp2,0.4mM,D,5.036
+exp2,0.4mM,D,5.442
+exp2,0.4mM,D,4.559
+exp2,0.4mM,D,6.28
+exp2,0.4mM,D,4.418
+exp2,0.4mM,D,8.101
+exp2,0.4mM,D,1.729
+exp2,0.4mM,D,6.575
+exp2,0.4mM,D,4.917
+exp2,0.4mM,D,2.331
+exp2,0.4mM,D,3.331
+exp2,0.4mM,D,7.387
+exp2,0.4mM,D,4.132
+exp2,1M,E,1.07
+exp2,1M,E,1.685
+exp2,1M,E,1.848
+exp2,1M,E,1.349
+exp2,1M,E,1.538
+exp2,1M,E,4.114
+exp2,1M,E,0.799
+exp2,1M,E,1.185
+exp2,1M,E,1.47
+exp2,1M,E,4.264
+exp2,1M,E,0.875
+exp2,1M,E,0.716
+exp2,1M,E,0.736
+exp2,1M,E,0.549
+exp2,1M,E,0.478
+exp2,1M,E,0.679
+exp2,1M,E,2.865
+exp2,1M,E,1.554
+exp2,1M,E,1.123
+exp2,1M,E,1.124
+exp2,1M,E,2.679
+exp2,1M,E,4.531
+exp2,1M,E,1.676
+exp2,1M,E,3.331
+exp2,1M,E,3.464
+exp2,1M,E,3.331
+exp2,1M,E,4.686
+exp2,1M,E,0.735
+exp2,1M,E,3.337
+exp2,1M,E,2.148
+exp2,1M,E,2.466
+exp2,1M,E,2.029
+exp2,1M,E,0.721
+exp2,1M,E,3.778
+exp2,1M,E,2.655
+exp2,1M,E,1.566
+exp2,1M,E,1.416
+exp2,1M,E,1.752
+exp2,1M,E,2.185
+exp2,1M,E,1.561
+exp2,1M,E,3.361
+exp2,1M,E,2.39
+exp2,1M,E,4.644
+exp2,1M,E,6.573
+exp2,1M,E,2.864
+exp2,1M,E,3.928
+exp2,1M,E,2.932
+exp2,1M,E,2.764
+exp2,1M,E,3.555
+exp2,1M,E,3.645
+exp2,1M,E,2.415
+exp2,1M,E,6.796
+exp2,1M,E,3.394
+exp2,1M,E,4.011
+exp2,1M,E,3.304
+exp2,1M,E,1.737
+exp2,1M,E,3.209
+exp2,1M,E,2.892
+exp2,1M,E,2.214
+exp2,1M,E,3.259
+exp2,1M,E,2.877
+exp2,1M,E,2.265
+exp2,1M,E,2.971
+exp2,1M,E,4.714
+exp2,1M,E,4.905
+exp2,1M,E,3.6
+exp2,1M,E,2.446
+exp2,1M,E,4.888
+exp2,1M,E,3.199
+exp2,1M,E,2.457
+exp2,1M,E,3.054
+exp2,1M,E,2.644
+exp2,1M,E,2.378
+exp2,1M,E,2.883
+exp2,1M,E,4.334
+exp2,1M,E,2.952
+exp2,1M,E,3.259
+exp2,1M,E,2.277
+exp2,1M,E,3.702
+exp2,1M,E,5.064
+exp2,1M,E,2.331
+exp2,1M,E,3.482
+exp2,1M,E,5.862
+exp2,1M,E,1.882
+exp2,1M,E,4.649
+exp2,1M,E,6.137
+exp2,1M,E,4.463
+exp2,1M,E,4.952
+exp2,1M,E,3.065
+exp2,1M,E,3.399
+exp2,1M,E,4.04
+exp2,1M,E,4.359
+exp2,1M,E,4.094
+exp2,1M,E,6.24
+exp2,1M,E,1.599
+exp2,1M,E,3.554
+exp2,1M,E,7.239
+exp2,1M,E,3.505
+exp2,1M,E,3.961
+exp2,1M,E,7.62
+exp2,1M,E,3.651
+exp2,1M,E,6.768
+exp2,1M,E,9.74
+exp2,30mM,F,2.952
+exp2,30mM,F,0.695
+exp2,30mM,F,0.875
+exp2,30mM,F,1.881
+exp2,30mM,F,2.801
+exp2,30mM,F,5.356
+exp2,30mM,F,1.475
+exp2,30mM,F,0.787
+exp2,30mM,F,1.155
+exp2,30mM,F,1.068
+exp2,30mM,F,1.465
+exp2,30mM,F,0.12
+exp2,30mM,F,0.446
+exp2,30mM,F,0.733
+exp2,30mM,F,0.323
+exp2,30mM,F,0.895
+exp2,30mM,F,0.471
+exp2,30mM,F,1.266
+exp2,30mM,F,2.952
+exp2,30mM,F,1.338
+exp2,30mM,F,0.533
+exp2,30mM,F,1.617
+exp2,30mM,F,1.758
+exp2,30mM,F,1.115
+exp2,30mM,F,0.826
+exp2,30mM,F,3.815
+exp2,30mM,F,2.571
+exp2,30mM,F,1.32
+exp2,30mM,F,0.316
+exp2,30mM,F,0.74
+exp2,30mM,F,1.366
+exp2,30mM,F,0.562
+exp2,30mM,F,1.866
+exp2,30mM,F,0.213
+exp2,30mM,F,3.651
+exp2,30mM,F,2.462
+exp2,30mM,F,1.228
+exp2,30mM,F,3.218
+exp2,30mM,F,1.235
+exp2,30mM,F,0.222
+exp2,30mM,F,2.594
+exp2,30mM,F,0.802
+exp2,30mM,F,0.786
+exp2,30mM,F,2.595
+exp2,30mM,F,1.579
+exp2,30mM,F,5.702
+exp2,30mM,F,1.981
+exp2,30mM,F,2.242
+exp2,30mM,F,1.463
+exp2,30mM,F,2.425
+exp2,30mM,F,2.07
+exp2,30mM,F,2.347
+exp2,30mM,F,3.012
+exp2,30mM,F,0.48
+exp2,30mM,F,2.417
+exp2,30mM,F,2.206
+exp2,30mM,F,3.119
+exp2,30mM,F,1.327
+exp2,30mM,F,3.774
+exp2,30mM,F,3.096
+exp2,30mM,F,3.659
+exp2,30mM,F,4.761
+exp2,30mM,F,3.05
+exp2,30mM,F,1.8
+exp2,30mM,F,1.591
+exp2,30mM,F,4.987
+exp2,30mM,F,3.892
+exp2,30mM,F,0.251
+exp2,30mM,F,2.656
+exp2,30mM,F,4.242
+exp2,30mM,F,3.708
+exp2,30mM,F,1.332
+exp2,30mM,F,5.271
+exp2,30mM,F,3.082
+exp2,30mM,F,4.297
+exp2,30mM,F,2.983
+exp2,30mM,F,3.736
+exp2,30mM,F,2.367
+exp2,30mM,F,2.811
+exp2,30mM,F,2.859
+exp2,30mM,F,3.319
+exp2,30mM,F,3.379
+exp2,30mM,F,4.214
+exp2,30mM,F,3.27
+exp2,30mM,F,3.404
+exp2,30mM,F,3.333
+exp2,30mM,F,1.981
+exp2,30mM,F,2.208
+exp2,30mM,F,2.208
+exp2,30mM,F,1.581
+exp2,30mM,F,2.867
+exp2,30mM,F,3.664
+exp2,30mM,F,1.554
+exp2,30mM,F,1.52
+exp2,30mM,F,0.397
+exp2,30mM,F,0.569
+exp2,50mM,G,2.12
+exp2,50mM,G,0.899
+exp2,50mM,G,0.659
+exp2,50mM,G,0.731
+exp2,50mM,G,0.307
+exp2,50mM,G,0.721
+exp2,50mM,G,1.067
+exp2,50mM,G,1.467
+exp2,50mM,G,1.876
+exp2,50mM,G,2.092
+exp2,50mM,G,1.158
+exp2,50mM,G,2.731
+exp2,50mM,G,1.803
+exp2,50mM,G,0.24
+exp2,50mM,G,0.167
+exp2,50mM,G,0.984
+exp2,50mM,G,0.377
+exp2,50mM,G,0.14
+exp2,50mM,G,0.137
+exp2,50mM,G,1.022
+exp2,50mM,G,1.551
+exp2,50mM,G,2.251
+exp2,50mM,G,2.22
+exp2,50mM,G,2.801
+exp2,50mM,G,0.778
+exp2,50mM,G,2.22
+exp2,50mM,G,2.133
+exp2,50mM,G,0.723
+exp2,50mM,G,1.162
+exp2,50mM,G,1.182
+exp2,50mM,G,0.211
+exp2,50mM,G,0.298
+exp2,50mM,G,1.461
+exp2,50mM,G,1.581
+exp2,50mM,G,1.216
+exp2,50mM,G,0.48
+exp2,50mM,G,1.602
+exp2,50mM,G,1.373
+exp2,50mM,G,2.207
+exp2,50mM,G,0.893
+exp2,50mM,G,0
+exp2,50mM,G,0.298
+exp2,50mM,G,0.478
+exp2,50mM,G,0.805
+exp2,50mM,G,2.117
+exp2,50mM,G,1.998
+exp2,50mM,G,1.243
+exp2,50mM,G,1.312
+exp2,50mM,G,2.614
+exp2,50mM,G,1.28
+exp2,50mM,G,0.632
+exp2,50mM,G,0.647
+exp2,50mM,G,0.379
+exp2,50mM,G,1.917
+exp2,50mM,G,1.96
+exp2,50mM,G,1.134
+exp2,50mM,G,2.056
+exp2,50mM,G,1.752
+exp2,50mM,G,1.921
+exp2,50mM,G,2.547
+exp2,50mM,G,1.698
+exp2,50mM,G,0.906
+exp2,50mM,G,1.554
+exp2,50mM,G,1.132
+exp2,50mM,G,2.119
+exp2,50mM,G,0.354
+exp2,50mM,G,1.109
+exp2,50mM,G,0.879
+exp2,50mM,G,2.537
+exp2,50mM,G,0.848
+exp2,50mM,G,0.577
+exp2,50mM,G,0.573
+exp2,50mM,G,2.279
+exp2,50mM,G,1.319
+exp2,50mM,G,1.097
+exp2,50mM,G,0.961
+exp2,50mM,G,0.708
+exp2,50mM,G,0.974
+exp2,50mM,G,1.696
+exp2,50mM,G,1.114
+exp2,50mM,G,0.708
+exp2,50mM,G,1.729
+exp2,50mM,G,2.614
+exp2,50mM,G,0.666
+exp2,50mM,G,1.332
+exp2,50mM,G,1.195
+exp2,50mM,G,3.176
+exp2,50mM,G,2.34
+exp2,50mM,G,1.158
+exp2,50mM,G,3.339
+exp2,50mM,G,2.45
+exp2,50mM,G,1.461
+exp2,50mM,G,1.461
+exp2,50mM,G,1.416
+exp2,50mM,G,3.733
+exp2,50mM,G,1.571
+exp2,50mM,G,0.359
+exp2,50mM,G,1.545
+exp2,50mM,G,2.463
+exp2,50mM,G,0.388
+exp2,50mM,G,0.239
+exp2,50mM,G,0.926
+exp2,50mM,G,2.177
+exp2,50mM,G,0.562
+exp2,50mM,G,0.838
+exp2,50mM,G,0.471
+exp2,50mM,G,0.366
+exp2,50mM,G,0.333
+exp2,50mM,G,0.355
+exp2,50mM,G,1.103
+exp2,50mM,G,0.444
+exp2,50mM,G,0.537
+exp2,50mM,G,0.444
+exp2,50mM,G,0.866
+exp2,50mM,G,0.721
+exp2,50mM,G,0.54
+exp2,50mM,G,0.419
+exp2,50mM,G,0.824
+exp2,50mM,G,0.167
+exp2,50mM,G,0.298
+exp2,50mM,G,0.307
+exp2,50mM,G,0.226
+exp2,50mM,G,0.222
+exp2,50mM,G,3.082
+exp2,50mM,G,0.604
+exp2,50mM,G,0.666
+exp2,50mM,G,1.344
+exp2,50mM,G,0.871
+exp2,50mM,G,0.453
+exp2,50mM,G,0.978
+exp2,50mM,G,0.885
+exp2,50mM,G,0.628
+exp2,50mM,G,0.824
+exp2,50mM,G,1.654
+exp2,50mM,G,0.999
+exp2,50mM,G,1.748
+exp2,50mM,G,3.215
+exp2,50mM,G,1.185
+exp2,50mM,G,2.325
+exp2,50mM,G,0.866
+exp2,50mM,G,1.732
+exp2,50mM,G,0.894
+exp2,50mM,G,1.247
+exp2,50mM,G,1.356
+exp2,50mM,G,0.896
+exp2,50mM,G,0.537
+exp2,50mM,G,0.32
+exp2,50mM,G,1.32
+exp2,50mM,G,0.869
+exp2,50mM,G,1.461
+exp2,100mM,H,0.447
+exp2,100mM,H,0.2
+exp2,100mM,H,0.755
+exp2,100mM,H,0.298
+exp2,100mM,H,2.796
+exp2,100mM,H,0.549
+exp2,100mM,H,1.794
+exp2,100mM,H,0.285
+exp2,100mM,H,0.199
+exp2,100mM,H,0.149
+exp2,100mM,H,0.358
+exp2,100mM,H,0.533
+exp2,100mM,H,1.264
+exp2,100mM,H,0.149
+exp2,100mM,H,0.211
+exp2,100mM,H,0.199
+exp2,100mM,H,0.188
+exp2,100mM,H,0.34
+exp2,100mM,H,0.348
+exp2,100mM,H,0.044
+exp2,100mM,H,0.199
+exp2,100mM,H,1.47
+exp2,100mM,H,1.959
+exp2,100mM,H,0.993
+exp2,100mM,H,2.053
+exp2,100mM,H,0.834
+exp2,100mM,H,0.347
+exp2,100mM,H,0.834
+exp2,100mM,H,0.421
+exp2,100mM,H,2.247
+exp2,100mM,H,1.867
+exp2,100mM,H,0.133
+exp2,100mM,H,2.197
+exp2,100mM,H,2.133
+exp2,100mM,H,1.792
+exp2,100mM,H,1.28
+exp2,100mM,H,0.934
+exp2,100mM,H,0.998
+exp2,100mM,H,1.18
+exp2,100mM,H,0.686
+exp2,100mM,H,1.008
+exp2,100mM,H,0.32
+exp2,100mM,H,1.7
+exp2,100mM,H,1.461
+exp2,100mM,H,1.036
+exp2,100mM,H,0.916
+exp2,100mM,H,2.5
+exp2,100mM,H,0.739
+exp2,100mM,H,1.609
+exp2,100mM,H,0.596
+exp2,100mM,H,1.036
+exp2,100mM,H,0.333
+exp2,100mM,H,0.888
+exp2,100mM,H,0.549
+exp2,100mM,H,0.843
+exp2,100mM,H,1.013
+exp2,100mM,H,1.91
+exp2,100mM,H,1.002
+exp2,100mM,H,0.686
+exp2,100mM,H,0.537
+exp2,100mM,H,1.158
+exp2,100mM,H,2.833
+exp2,100mM,H,0.4
+exp2,100mM,H,1.099
+exp2,100mM,H,0.6
+exp2,100mM,H,0.359
+exp2,100mM,H,0.942
+exp2,100mM,H,1.256
+exp2,100mM,H,1.908
+exp2,100mM,H,1.706
+exp2,100mM,H,1.996
+exp2,100mM,H,2.111
+exp2,100mM,H,1.353
+exp2,100mM,H,0.666
+exp2,100mM,H,1.75
+exp2,100mM,H,1.406
+exp2,100mM,H,0.805
+exp2,100mM,H,1.015
+exp2,100mM,H,1.332
+exp2,100mM,H,1.882
+exp2,100mM,H,3.651
+exp2,100mM,H,0.843
+exp2,100mM,H,1.379
+exp2,100mM,H,2.132
+exp2,100mM,H,0.533
+exp2,100mM,H,0.444
+exp2,100mM,H,0.596
+exp2,100mM,H,0.298
+exp2,100mM,H,1.158
