@@ -660,16 +660,6 @@ plot_3E<-ggplot(data3E, aes(shape=Group, y=gsw, x=Time,color=Group))+
   geom_text(x=4.4, y=0.23, label="Dark",col="Black", size=7, fontface="bold")+
   
   
-  geom_text(x=68, y=0.124, label="*",col="Black", size=5, fontface="bold")+
-  geom_text(x=70, y=0.128, label="*",col="Black", size=5, fontface="bold")+
-  geom_text(x=72, y=0.132, label="*",col="Black", size=5, fontface="bold")+
-  geom_text(x=74, y=0.134, label="*",col="Black", size=5, fontface="bold")+
-  geom_text(x=76, y=0.137, label="*",col="Black", size=5, fontface="bold")+
-  geom_text(x=78, y=0.141, label="*",col="Black", size=5, fontface="bold")+
-  geom_text(x=80, y=0.144, label="*",col="Black", size=5, fontface="bold")+
-  
-  geom_text(x=66, y=0.052, label="********************",col="Black", size=5, fontface="bold")+
-  geom_text(x=59, y=0.032, label="******************************",col="Black", size=5, fontface="bold")
 
 
 ## Fig 3F  Separate Boxplots for Glucose, Fructose, and Sucrose
@@ -778,27 +768,7 @@ plot_4A <- ggplot(data4A, aes(x = Letter, y = Aperture, fill = Ttreatment)) +
         legend.text = element_text(colour = "black", size = 16),
   ylim(0, 3.6)) +
   annotate("text", x = 1.5, y = 3.5, label = "Anova, p = 1e-6", size = 5)+
-  # Add annotations as in original plot
-  geom_segment(aes(x = 1.5, y = 3.2, xend = 7.5, yend = 3.2), size = 1, col = "red") +
-  geom_text(x = 2, y = 1.5, label = "**", col = "Black", size = 6, fontface = "bold") +
-  geom_text(x = 3.2, y = 1.7, label = "*", col = "Black", size = 6, fontface = "bold") +
-  geom_text(x = 2.8, y = 2.1, label = "**", col = "Black", size = 6, fontface = "bold") +
-  geom_text(x = 4.22, y = 1.7, label = "*", col = "Black", size = 6, fontface = "bold") +
-  geom_text(x = 3.8, y = 2.55, label = "***", col = "Black", size = 6, fontface = "bold") +
-  geom_text(x = 4.6, y = 3.5, label = "Red light", col = "red", size = 7, fontface = "bold") +
-  geom_text(x = 4.75, y = 1.3, label = "*", col = "Black", size = 6, fontface = "bold") +
-  geom_text(x = 5.24, y = 1.3, label = "*", col = "Black", size = 6, fontface = "bold") +
-  geom_segment(aes(x = 3.7, y = 2.7, xend = 4.3, yend = 2.7), size = 0.5, col = "black") +
-  geom_text(x = 3.95, y = 2.9, label = "0.0012", col = "Black", size = 5) +
-  geom_segment(aes(x = 2.7, y = 2.4, xend = 3.3, yend = 2.4), size = 0.5, col = "black") +
-  geom_text(x = 3, y = 2.6, label = "0.1", col = "Black", size = 5) +
-  geom_segment(aes(x = 4.7, y = 1.5, xend = 5.3, yend = 1.5), size = 0.5, col = "black") +
-  geom_text(x = 5, y = 1.7, label = "0.42", col = "Black", size = 5) +
-  geom_segment(aes(x = 5.7, y = 1.3, xend = 6.3, yend = 1.3), size = 0.5, col = "black") +
-  geom_text(x = 6, y = 1.5, label = "0.33", col = "Black", size = 5) +
-  geom_segment(aes(x = 6.7, y = 0.9, xend = 7.3, yend = 0.9), size = 0.5, col = "black") +
-  geom_text(x = 7, y = 1.1, label = "0.36", col = "Black", size = 5)
-
+ 
 
 
 
@@ -834,10 +804,6 @@ plot_4B<-ggplot(data4B, aes(fill=Genotype, y=Aperture, x=Letter)) +
   geom_text(x=3, y=2.4, label="Red light",col="red", size=7, fontface="bold")+
   geom_segment(aes(x = 1.5,  y = 2.2, xend = 4.5,yend = 2.2),size=1,col="red")+
   
-  geom_text(x=1.85, y=1.17, label="**",col="Black", size=6, fontface="bold")+
-  geom_text(x=2.85, y=1.7, label="***",col="Black", size=6, fontface="bold")+
-  geom_text(x=3.15, y=1.2, label="**",col="Black", size=6, fontface="bold")+
-
   
   geom_segment(aes(x = 1.7, y = 1.3, xend =2.3, yend = 1.3),size=0.5,col="black")+
   geom_segment(aes(x = 2.7, y = 1.85, xend =3.3, yend = 1.85),size=0.5,col="black")+
@@ -891,20 +857,6 @@ plot_4C<-ggplot(data4C, aes(fill=Genotype, y=Aperture, x=Letter)) +
   geom_segment(aes(x = 5.7, y = 1, xend =6.3, yend = 1),size=0.5,col="black")+
   geom_segment(aes(x = 6.7, y = 0.79, xend =7.3, yend = 0.79),size=0.5,col="black")+
   
-  geom_text(x=1.9, y=1.8, label="ns",col="Black", size=5)+
-  geom_text(x=2.95, y=2.1, label="ns",col="Black", size=5)+
-  geom_text(x=3.95, y=2.35, label="ns",col="Black", size=5)+
-  geom_text(x=4.95, y=1.35, label="ns",col="Black", size=5)+
-  geom_text(x=5.95, y=1.15, label="ns",col="Black", size=5)+
-  geom_text(x=6.95, y=0.95, label="ns",col="Black", size=5)+
-
-  geom_text(x=1.82, y=1.3, label="*",col="Black", size=6, fontface="bold")+
-  geom_text(x=2.1, y=1.5, label="*",col="Black", size=6, fontface="bold")+
-  geom_text(x=2.85, y=1.8, label="*",col="Black", size=6, fontface="bold")+
-  geom_text(x=3.2, y=1.7, label="*",col="Black", size=6, fontface="bold")+
-  
-  geom_text(x=3.85, y=2.05, label="*",col="Black", size=6, fontface="bold")+
-  geom_text(x=4.15, y=2, label="*",col="Black", size=6, fontface="bold")+
   
   
   theme(legend.position="top")
@@ -1418,13 +1370,7 @@ plot6C <- ggplot(data6C, aes(y = gsw, x = obs, color = Group, shape = Group)) +
   geom_text(x = 9, y = 0.195, label = "Dark", col = "black", size = 6, fontface = "bold") +
   theme(legend.title = element_blank()) +
   theme(legend.text = element_text(colour = "black", size = 16))+
-  geom_text(x=47, y=0.06, label="**************************",col="black", size=5, fontface="bold")
-  
-  
-geom_text(x=43, y=0.17, label="*****************************",col="blue", size=6, fontface="bold")+
-geom_text(x=46, y=0.16, label="************************",col="green", size=6, fontface="bold")+
-geom_text(x=44, y=0.15, label="*****************************",col="gray", size=6, fontface="bold")
-
+ 
 grid.arrange(plot6A, plot6B, plot6C,  nrow=3, heights=c(1, 1, 1))
 
 
