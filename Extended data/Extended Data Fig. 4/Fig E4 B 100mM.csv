@@ -1,0 +1,10 @@
+Group,Treatment,Current,Letter
+100,control,-1.113,A
+100,control,-1.222,A
+100,control,-1.967,A
+100,1 mM sucrose,-1.024,B
+100,1 mM sucrose,-0.855,B
+100,1 mM sucrose,-1.833,B
+100,3 mM sucrose,-1.307,C
+100,3 mM sucrose,-0.887,C
+100,3 mM sucrose,-1.621,C
