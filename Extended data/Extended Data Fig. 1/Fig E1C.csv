@@ -1,0 +1,25 @@
+Tretament,Letter,Osmotic
+Mock Control,A,33
+Original,B,36
+Flowthrough,C,59
+Wash(5% MeOH),D,38
+E-25 MeOH,E,36
+E-50 MeOH,F,37
+E-75 MeOH,G,37
+E-100 MeOH,H,36
+Mock Control,A,31
+Original,B,39
+Flowthrough,C,86
+Wash(5% MeOH),D,37
+E-25 MeOH,E,33
+E-50 MeOH,F,34
+E-75 MeOH,G,33
+E-100 MeOH,H,33
+Mock Control,A,32
+Original,B,39
+Flowthrough,C,64
+Wash(5% MeOH),D,35
+E-25 MeOH,E,31
+E-50 MeOH,F,32
+E-75 MeOH,G,33
+E-100 MeOH,H,32
