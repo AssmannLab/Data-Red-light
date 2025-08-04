@@ -1,0 +1,897 @@
+Metabolite,Species,Score,Category
+Dimethylglycine,A. thaliana,0.618606387,Non-proteinogenic amino acids
+2-Aminoethanol,A. thaliana,0.975560826,Amino acid related
+Docosapentaenoic acid,A. thaliana,1.347512337,Fatty acids and lipids
+Batyl alcohol,A. thaliana,1.275767075,Fatty acids and lipids
+Lactitol,A. thaliana,0.958907417,Carbohydrates
+Maltitol,A. thaliana,0.358314153,Carbohydrates
+5'-Methylthioadenosine,A. thaliana,0.809677784,Nucleotide-related 
+Phosphoric acid,A. thaliana,0.139906462,Carboxylic acids
+Proline,A. thaliana,1.439216875,"Amines, hexosamines and alkaloids "
+Phenylacetic acid,A. thaliana,1.53869868,Carboxylic acids
+3-Hydroxypyruvic acid,A. thaliana,0.7582861,Carboxylic acids
+Uracil,A. thaliana,1.536561949,Nucleotide-related 
+Glyoxylic acid,A. thaliana,0.585763455,Carboxylic acids
+Acetylglycine,A. thaliana,1.286254265,Non-proteinogenic amino acids
+3-Aminopropanoic acid,A. thaliana,0.724257828,Carboxylic acids
+Erythrulose,A. thaliana,0.679182373,Carbohydrates
+N-Acetylserine,A. thaliana,0.873041371,Non-proteinogenic amino acids
+Lactic acid,A. thaliana,0.230717808,Carboxylic acids
+3-Aminoglutaric acid,A. thaliana,1.080780738,Carboxylic acids
+4-Aminobutyric acid,A. thaliana,0.351158565,Carboxylic acids
+Threonic acid,A. thaliana,2.495768396,Carboxylic acids
+2-Ketoglutaric acid,A. thaliana,0.419826699,Carboxylic acids
+Xylose,A. thaliana,1.139586419,Carbohydrates
+Ureidopropionic acid,A. thaliana,1.600509102,Carboxylic acids
+Threo-b-hydroxyaspartic acid,A. thaliana,0.669328969,Carboxylic acids
+2-Ketoadipic acid,A. thaliana,1.041154633,Carboxylic acids
+N-Acetylaspartic acid,A. thaliana,0.997021751,Carboxylic acids
+Asparagine,A. thaliana,0.610393025,"Amines, hexosamines and alkaloids "
+Ribonolactone,A. thaliana,1.088751846,Carbohydrates
+Arabitol,A. thaliana,0.746982633,Carbohydrates
+"1,6-Anhydroglucose",A. thaliana,0.761197545,Carbohydrates
+Rhamnose,A. thaliana,0.908188878,Carbohydrates
+2-Deoxy-glucose,A. thaliana,0.755374703,Carbohydrates
+Dihydroxyacetone phosphate,A. thaliana,0.533556982,Carbohydrates
+Glycerol 3-phosphate,A. thaliana,0.671699888,Carbohydrates
+2-Aminopimelic acid,A. thaliana,0.389716951,Carboxylic acids
+Arginine,A. thaliana,0.560576085,"Amines, hexosamines and alkaloids "
+Glycyl-Glycine,A. thaliana,1.548590018,Non-proteinogenic amino acids
+Psicose,A. thaliana,1.485690103,Carbohydrates
+Pyridoxal,A. thaliana,1.458364295,Amino acid related
+Sorbose,A. thaliana,1.453326316,Carbohydrates
+Allose,A. thaliana,1.076186813,Carbohydrates
+Valine,A. thaliana,1.065015115,"Amines, hexosamines and alkaloids "
+"Glucono-1,5-lactone",A. thaliana,1.084801495,Carbohydrates
+Hippuric acid,A. thaliana,1.07227822,Carboxylic acids
+Mannose,A. thaliana,1.057432959,Carbohydrates
+Erythrose 4-phosphate,A. thaliana,0.566178701,Carbohydrates
+Galactosamine,A. thaliana,0.438777762,Amino acid related
+Pyridoxamine,A. thaliana,0.673374349,Amino acid related
+S-Benzyl-Cysteine,A. thaliana,0.131754679,"Amines, hexosamines and alkaloids "
+Inositol,A. thaliana,0.670091828,Carbohydrates
+Kynurenic acid,A. thaliana,0.878456616,Carboxylic acids
+Uric acid,A. thaliana,0.941111499,Carboxylic acids
+Metoprolol,A. thaliana,0.826128825,Amino acid related
+Kynurenine,A. thaliana,0.652220789,"Amines, hexosamines and alkaloids "
+Suberylglycine,A. thaliana,0.166711591,Non-proteinogenic amino acids
+Mannose 6-phosphate,A. thaliana,0.234345666,Carbohydrates
+5-Methoxytryptamine,A. thaliana,0.882906115,Amino acid related
+N-Acetylneuraminic acid,A. thaliana,1.062895965,Carboxylic acids
+Tyrosine,A. thaliana,3.420060181,"Amines, hexosamines and alkaloids "
+Hexuronic acid,A. thaliana,1.109195402,Carboxylic acids
+Hexose-6-phosphate,A. thaliana,0.625560538,Carbohydrates
+Heptadecanoic acid,A. thaliana,0.928615511,Carboxylic acids
+Guanosine,A. thaliana,1.242040816,Nucleotide-related 
+Glycyl Proline,A. thaliana,0.715528536,Non-proteinogenic amino acids
+Glycine,A. thaliana,1.343152008,"Amines, hexosamines and alkaloids "
+Glycerol-3-galactoside,A. thaliana,1.259479486,Carbohydrates
+Tyramine,A. thaliana,1.185457667,Amino acid related
+Glyceric acid,A. thaliana,0.923644432,Carboxylic acids
+Glutamine,A. thaliana,0.6946125,"Amines, hexosamines and alkaloids "
+Glucose-1-phosphate,A. thaliana,1.027106949,Carbohydrates
+Glucose,A. thaliana,1.960440932,Carbohydrates
+Gluconic acid lactone,A. thaliana,0.990572986,Carboxylic acids
+Gluconic acid,A. thaliana,0.928993085,Carboxylic acids
+Galacturonic acid,A. thaliana,0.797761482,Carboxylic acids
+Trisaccharide,A. thaliana,0.986750349,Carbohydrates
+Galactose,A. thaliana,1.548210954,Carbohydrates
+Galactinol,A. thaliana,1.592819187,Carbohydrates
+Fumaric acid,A. thaliana,11.02840267,Carboxylic acids
+Fucose,A. thaliana,0.953783728,Carbohydrates
+Fructose,A. thaliana,1.626438797,Carbohydrates
+Ethanolamine,A. thaliana,1.591198141,Amino acid related
+Erythrose,A. thaliana,2.584970377,Carbohydrates
+Erythronic acid lactone,A. thaliana,1.167761357,Carboxylic acids
+Epsilon-caprolactam,A. thaliana,0.863831662,Carbohydrates
+Trehalose,A. thaliana,1.464163823,Carbohydrates
+Enolpyruvate,A. thaliana,0.708506076,Carboxylic acids
+Dihydroxyacetone,A. thaliana,1.577252117,Carbohydrates
+Digitoxose,A. thaliana,0.778089734,Carbohydrates
+Cyanoalanine,A. thaliana,1.03424728,"Amines, hexosamines and alkaloids "
+Conduritol-beta-epoxide,A. thaliana,2.037562604,Carbohydrates
+Citrulline,A. thaliana,0.416588276,Non-proteinogenic amino acids
+Citric acid,A. thaliana,0.315446026,Carboxylic acids
+Citramalic acid,A. thaliana,3.031964854,Carboxylic acids
+Cerotinic acid,A. thaliana,0.94400289,Carboxylic acids
+Cellobiose,A. thaliana,1.23294959,Carbohydrates
+Capric acid,A. thaliana,0.745622896,Carboxylic acids
+Butyrolactam,A. thaliana,1.091580869,Amino acid related
+Butylamine,A. thaliana,1.046172249,Amino acid related
+Beta-gentiobiose,A. thaliana,0.670820468,Carbohydrates
+Beta-alanine,A. thaliana,0.79639798,"Amines, hexosamines and alkaloids "
+Benzoic acid,A. thaliana,0.649489126,Carboxylic acids
+Arachidic acid,A. thaliana,0.931110249,Carboxylic acids
+Alpha-Ketoglutarate,A. thaliana,0.646787755,Carboxylic acids
+Alpha-Aminoadipic acid,A. thaliana,1.37015297,"Amines, hexosamines and alkaloids "
+Alloxanoic acid,A. thaliana,0.800408223,Carboxylic acids
+Allantoic acid,A. thaliana,1.535299516,Carboxylic acids
+Tagatose,A. thaliana,1.648503499,Carbohydrates
+Aconitic acid,A. thaliana,0.423389232,Carboxylic acids
+6-Deoxyglucose,A. thaliana,1.056999156,Carbohydrates
+5-Methyluridine,A. thaliana,1.843971631,Nucleotide-related 
+5-Aminovaleric acid,A. thaliana,0.91312909,"Amines, hexosamines and alkaloids "
+4-Methylbenzenesulfonamide,A. thaliana,0.813002897,Sulfur-containing metabolites  
+4-Hydroxybutyric acid,A. thaliana,0.759629883,Carboxylic acids
+4-Hydroxybenzoic acid (4-Hba),A. thaliana,0.715552927,Carboxylic acids
+Sucrose,A. thaliana,4.723495702,Carbohydrates
+3-Hydroxypropionic acid,A. thaliana,0.860391277,Carboxylic acids
+3-Dehydroshikimic acid,A. thaliana,0.597980844,Carboxylic acids
+3-Aminoisobutyric acid,A. thaliana,0.742492268,Non-proteinogenic amino acids
+"3,4-Dihydroxyphenylacetic acid",A. thaliana,0.815472416,Carboxylic acids
+"3,4-Dihydroxybenzoic acid",A. thaliana,0.696559835,Carboxylic acids
+2-Monopalmitin,A. thaliana,1.404842569,Fatty acids and lipids
+2-Methylglyceric acid,A. thaliana,3.773455979,Carboxylic acids
+2-Hydroxyglutaric acid,A. thaliana,1.505893491,Carboxylic acids
+2-Deoxytetronic acid,A. thaliana,1.405938801,Carboxylic acids
+2-Deoxyerythritol,A. thaliana,0.895464124,Carbohydrates
+Succinic acid,A. thaliana,7.871795288,Carboxylic acids
+1-Monostearin,A. thaliana,1.261248267,Fatty acids and lipids
+1-Monopalmitin,A. thaliana,0.127378975,Fatty acids and lipids
+1-Monoolein,A. thaliana,0.967106843,Fatty acids and lipids
+1-Monoheptadecanoyl glyceride,A. thaliana,1.140540541,Fatty acids and lipids
+1-Hexadecanol,A. thaliana,1.621416526,Fatty acids and lipids
+1-Deoxyerythritol,A. thaliana,0.849605114,Carbohydrates
+"1,3,5-Trimethylcyanuric acid",A. thaliana,0.822316416,Carboxylic acids
+"1,2,4-Benzenetriol",A. thaliana,0.51663791,Phenolics 
+Succinate semialdehyde,A. thaliana,1.360871011,Carboxylic acids
+Xylonolactone,A. thaliana,0.750327476,Carbohydrates
+Stearic acid,A. thaliana,1.040770305,Carboxylic acids
+Sorbitol,A. thaliana,5.765504285,Carbohydrates
+Sophorose,A. thaliana,0.950479233,Carbohydrates
+Shikimic acid,A. thaliana,1.347278278,Carboxylic acids
+Serine,A. thaliana,2.037278508,"Amines, hexosamines and alkaloids "
+Saccharic acid,A. thaliana,0.839680301,Carboxylic acids
+Ribonic acid,A. thaliana,1.965199112,Carboxylic acids
+Xylonic acid isomer,A. thaliana,1.134293089,Carboxylic acids
+Ribitol,A. thaliana,1.340372013,Carbohydrates
+Raffinose,A. thaliana,3.101822281,Carbohydrates
+Pseudo uridine,A. thaliana,0.906839912,Nucleotide-related 
+Pipecolinic acid,A. thaliana,2.873857767,Carboxylic acids
+Pentitol,A. thaliana,1.11109735,Carbohydrates
+Pentadecanoic acid,A. thaliana,1.576989526,Carboxylic acids
+Xylonic acid,A. thaliana,2.040258144,Carboxylic acids
+Pelargonic acid,A. thaliana,0.841496171,Carboxylic acids
+Parabanic acid,A. thaliana,0.374883629,Carboxylic acids
+Palmitic acid,A. thaliana,0.906807377,Carboxylic acids
+Oxoproline,A. thaliana,0.785573585,Non-proteinogenic amino acids
+Oxalic acid,A. thaliana,1.028358209,Carboxylic acids
+Orotic acid,A. thaliana,0.597889801,Carboxylic acids
+Ornithine,A. thaliana,0.55346078,Non-proteinogenic amino acids
+Octadecanol,A. thaliana,1.494278929,Fatty acids and lipids
+O-acetyl-L-serine,A. thaliana,2.464900662,Non-proteinogenic amino acids
+Norvaline,A. thaliana,1.229801984,Non-proteinogenic amino acids
+N-Acetylornithine,A. thaliana,1.872904273,Non-proteinogenic amino acids
+N-Acetyl-D-hexosamine,A. thaliana,1.25241447,Amino acid related
+N-Acetyl-D-galactosamine,A. thaliana,0.494019866,Amino acid related
+Myristic acid,A. thaliana,1.041947566,Carboxylic acids
+Mucic acid,A. thaliana,0.594858156,Carboxylic acids
+Urocanic acid,A. thaliana,0.695016962,Carboxylic acids
+Montanic acid,A. thaliana,0.897525984,Carboxylic acids
+Monomyristin,A. thaliana,0.043718575,Fatty acids and lipids
+Methylhexose,A. thaliana,1.248919501,Carbohydrates
+Methyl O-galactopyranoside,A. thaliana,1.538961777,Carbohydrates
+Methionine sulfoxide,A. thaliana,0.737944379,"Amines, hexosamines and alkaloids "
+Melibiose,A. thaliana,1.460379464,Carbohydrates
+Mannonic acid,A. thaliana,1.187445812,Carboxylic acids
+Mannitol,A. thaliana,2.840156292,Carbohydrates
+Uridine,A. thaliana,0.700662252,Nucleotide-related 
+Maltotriose,A. thaliana,1.090109117,Carbohydrates
+Maleic acid,A. thaliana,2.029895782,Carboxylic acids
+Lyxose,A. thaliana,3.009516747,Carbohydrates
+Lyxitol,A. thaliana,1.303174829,Carbohydrates
+Lignoceric acid,A. thaliana,0.96110515,Carboxylic acids
+Levoglucosan,A. thaliana,1.252450569,Carbohydrates
+Leucrose,A. thaliana,1.054149868,Carbohydrates
+Leucine,A. thaliana,1.530248826,"Amines, hexosamines and alkaloids "
+Dopa,A. thaliana,0.72113438,Non-proteinogenic amino acids
+Lauric acid,A. thaliana,1.066320395,Carboxylic acids
+Lactulose,A. thaliana,1.191545727,Carbohydrates
+Lactobionic acid,A. thaliana,0.661509485,Carboxylic acids
+Lactamide,A. thaliana,0.72892951,Carboxylic acids
+Isothreonic acid,A. thaliana,0.806859593,Carboxylic acids
+Isothreitol,A. thaliana,0.948468429,Carbohydrates
+Isoribose,A. thaliana,0.890389563,Carbohydrates
+Isoleucine,A. thaliana,1.343978284,"Amines, hexosamines and alkaloids "
+Isohexonic acid,A. thaliana,0.664410603,Carboxylic acids
+Isocitric acid,A. thaliana,0.338358898,Carboxylic acids
+Isobutene glycol,A. thaliana,0.878243468,Carbohydrates
+Inositol-4-monophosphate,A. thaliana,0.437296417,Fatty acids and lipids
+Ile-Ile,A. thaliana,0.428857048,Non-proteinogenic amino acids
+Hypoxanthine,A. thaliana,0.387664265,Nucleotide-related 
+Hydroxylamine,A. thaliana,0.205679659,Amino acid related
+Hydroxycarbamate,A. thaliana,0.414794244,Carbohydrates
+Homoserine,A. thaliana,0.971975005,Non-proteinogenic amino acids
+Glycolic acid,A. thaliana,2.954532949,Carboxylic acids
+Ribose-5-phosphate,A. thaliana,0.382116493,Carbohydrates
+Neohesperidin,A. thaliana,1.038482275,Phenolics 
+Gibberellin A4,A. thaliana,0.666780148,Terpenoids
+Glucose-6-phosphate,A. thaliana,1.541067978,Carbohydrates
+Lipoic acid,A. thaliana,0.922134991,Carboxylic acids
+Carnosol,A. thaliana,0.997561186,Phenolics 
+mannose-6-phosphate,A. thaliana,1.112327751,Carbohydrates
+Alpha-D-Mannose-1-Phosphate,A. thaliana,1.030015576,Carbohydrates
+Uridine-5-monophosphate,A. thaliana,0.734490874,Nucleotide-related 
+Maltose,A. thaliana,0.562648793,Carbohydrates
+1-Kestose,A. thaliana,0.573512276,Carbohydrates
+Malonic acid,A. thaliana,0.81002438,Carboxylic acids
+Inosine 5 monophosphate,A. thaliana,4.461704107,Nucleotide-related 
+Phosphoribosyl diphosphate ,A. thaliana,0.727740768,Nucleotide-related 
+Guanosine monophosphate,A. thaliana,1.512626182,Nucleotide-related 
+Guanosine diphosphate,A. thaliana,0.25389442,Nucleotide-related 
+Guanosine triphosphate,A. thaliana,0.806198652,Nucleotide-related 
+Ribose,A. thaliana,2.827012491,Carbohydrates
+Pyruvic acid,A. thaliana,1.958408194,Carboxylic acids
+2-Hydroxyisobutyric acid,A. thaliana,6.215450122,Carboxylic acids
+Methylmalonic acid,A. thaliana,4.723789752,Carboxylic acids
+Mesaconic acid,A. thaliana,8.429047537,Carboxylic acids
+Ethylmalonic acid,A. thaliana,0.602815568,Carboxylic acids
+Dihydroorotic acid,A. thaliana,0.381834138,Carboxylic acids
+Pimelic acid,A. thaliana,0.710321569,Carboxylic acids
+O-phospho Serine,A. thaliana,0.73099407,Non-proteinogenic amino acids
+2-Isopropylmalic acid,A. thaliana,7.048372884,Carboxylic acids
+Caffeic acid,A. thaliana,0.617081786,Carboxylic acids
+2-Deoxyinosine,A. thaliana,22.00526725,Nucleotide-related 
+2-Deoxy inosine-5-Triphosphate,A. thaliana,2.007093338,Nucleotide-related 
+Chlorogenic acid,A. thaliana,1.161634709,Carboxylic acids
+Rosmarinic acid,A. thaliana,1.606710688,Carboxylic acids
+Glucuronic acid,A. thaliana,0.883730418,Carboxylic acids
+Riboflavin-5-monophosphate,A. thaliana,0.737291957,Cofactor-related 
+Biotin,A. thaliana,0.922071091,Cofactor-related 
+Dodecanoic acid,A. thaliana,0.230985108,Carboxylic acids
+Gibberellin A1,A. thaliana,0.947730164,Terpenoids
+4-Nitrophenol,A. thaliana,1.273991282,Phenolics 
+Adonitol,A. thaliana,3.044058351,Carbohydrates
+2-Hydroxyphenylacetic acid,A. thaliana,0.704478451,Carboxylic acids
+Mandelic acid,A. thaliana,0.595316205,Carboxylic acids
+Cysteine-S-Sulfate,A. thaliana,0.8439745,"Amines, hexosamines and alkaloids "
+Xanthine,A. thaliana,0.493727668,Nucleotide-related 
+"3,4- Dihydroxy phenyl acetic acid",A. thaliana,0.474342189,Carboxylic acids
+Gulonic acid gamma lactone,A. thaliana,0.756472729,Carboxylic acids
+6-methoxy cinnamic acid,A. thaliana,0.908981664,Carboxylic acids
+"6,7 Dihydrxy coumarin",A. thaliana,0.838582272,Phenolics 
+3-Hydroxy 4-Methoxy Cinnamic acid,A. thaliana,1.286324711,Carboxylic acids
+7-Hydroxyflavone,A. thaliana,0.742864704,Phenolics 
+2-Deoxyribose-5-phosphate,A. thaliana,1.634132441,Carbohydrates
+6-Hydroxy flavone,A. thaliana,0.892727772,Phenolics 
+Isoliquiritigenin,A. thaliana,0.532739669,Phenolics 
+Apigenin,A. thaliana,1.168198024,Phenolics 
+Naringenin,A. thaliana,1.28722427,Phenolics 
+Lignoceryl alcohol,A. thaliana,1.10274823,Fatty acids and lipids
+Isomaltose,A. thaliana,0.941185303,Carbohydrates
+"1,3,-Diaminopropane",A. thaliana,0.311958192,Amino acid related
+"1,4-Diaminobutane (Putrescine)",A. thaliana,0.311958192,Amino acid related
+Histamine,A. thaliana,0.171509289,Amino acid related
+2-Deoxy uridine,A. thaliana,2.206885006,Nucleotide-related 
+2-Deoxyadenosine,A. thaliana,2.054848951,Nucleotide-related 
+2-Deoxyguanosine,A. thaliana,1.598411599,Nucleotide-related 
+Adenosine,A. thaliana,0.940765392,Nucleotide-related 
+Inosine,A. thaliana,0.889815397,Nucleotide-related 
+Catechin,A. thaliana,1.29923788,Phenolics 
+Epicatechin,A. thaliana,0.921102855,Phenolics 
+5-Deoxy-5-methylthio-adenosine,A. thaliana,2.057326234,Nucleotide-related 
+Cytosine,A. thaliana,1.081518983,Nucleotide-related 
+Glutathione reduced GSH,A. thaliana,0.913724018,Sulfur-containing metabolites  
+2-Deoxyadenosine-5-monophosphate,A. thaliana,1.961988103,Nucleotide-related 
+Cyclic guanosine monophosphate,A. thaliana,1.954909775,Nucleotide-related 
+2-Deoxyguanosine-5-monophosphate,A. thaliana,0.880295609,Nucleotide-related 
+Adenosine-3-monophosphate,A. thaliana,0.830526604,Nucleotide-related 
+"(6R)-5,6,7,8-Tetrahydrobiopterin",A. thaliana,1.919345071,Nucleotide-related 
+Riboflavin,A. thaliana,1.74626214,Cofactor-related 
+Callistephin,A. thaliana,2.751828552,Phenolics 
+Folic acid,A. thaliana,1.504909052,Carboxylic acids
+Glutathione oxidized,A. thaliana,1.300804566,Sulfur-containing metabolites  
+Threonine,A. thaliana,2.5835635,"Amines, hexosamines and alkaloids "
+Xanthosine,A. thaliana,2.836505671,Nucleotide-related 
+Malic acid,A. thaliana,1.311322203,Carboxylic acids
+Citraconic Acid,A. thaliana,0.821212601,Carboxylic acids
+Vanillin,A. thaliana,0.680583953,Phenolics 
+Indole carboxylic acid,A. thaliana,0.774790892,Carboxylic acids
+Coumaric acid,A. thaliana,0.730770696,Carboxylic acids
+o-hydroxycinnamic acid,A. thaliana,0.785433457,Carboxylic acids
+"3,4-Hydroxyphenylpropionic acid",A. thaliana,1.574761226,Carboxylic acids
+3-Indole-Acetic Acid,A. thaliana,3.083398095,Carboxylic acids
+Cysteine,A. thaliana,6.95269301,"Amines, hexosamines and alkaloids "
+4-Hydroxy-3-methoxycinnamaldehyde,A. thaliana,1.458127859,Phenolics 
+Ferulic acid,A. thaliana,0.92969719,Carboxylic acids
+Syringic acid,A. thaliana,1.543172559,Carboxylic acids
+Melatonin,A. thaliana,0.875544734,Amino acid related
+Naphthylacid phosphate,A. thaliana,1.93618661,Carboxylic acids
+Gamma-Glu-Cys,A. thaliana,0.986974587,Non-proteinogenic amino acids
+Liquiritigenin,A. thaliana,0.938003174,Phenolics 
+Genistein,A. thaliana,0.52020379,Phenolics 
+2-aminoethylphosphonic acid,A. thaliana,1.24528744,Carboxylic acids
+Cyanidin,A. thaliana,0.445368098,Phenolics 
+Alpha-lactose,A. thaliana,1.102615827,Carbohydrates
+Gibberellin A3,A. thaliana,1.575685662,Terpenoids
+Luteolin-7-beta-glucoside,A. thaliana,0.289537776,Phenolics 
+Epibrassinolide,A. thaliana,0.965419929,Terpenoids
+Abscisic acid,A. thaliana,0.656587667,Terpenoids
+Syringaldehyde,A. thaliana,0.947682768,Phenolics 
+Kaempferol,A. thaliana,0.446976858,Phenolics 
+Resveratrol,A. thaliana,0.782688854,Phenolics 
+Nordihydro guaiaretic acid,A. thaliana,0.603334174,Carboxylic acids
+Agmatine,A. thaliana,1.865042149,Amino acid related
+Carnitine,A. thaliana,1.857407874,"Amines, hexosamines and alkaloids "
+1-Methylhistamine ,A. thaliana,1.226687651,Amino acid related
+Nicotine,A. thaliana,1.036116501,Amino acid related
+Buthionine-sulfoximine,A. thaliana,1.6769652,Sulfur-containing metabolites  
+Thymidine,A. thaliana,0.620404841,Nucleotide-related 
+Dihydrophaseic acid,A. thaliana,0.850138676,Carboxylic acids
+Biochanin A 4-methylgeistein,A. thaliana,0.829908471,Phenolics 
+Sphingosine,A. thaliana,1.280196579,Fatty acids and lipids
+Kaempferide,A. thaliana,0.674605727,Phenolics 
+Capsaicin,A. thaliana,0.522495339,Phenolics 
+Trans-4-hydroxyl-L-proline,A. thaliana,0.969100624,Non-proteinogenic amino acids
+Methyl salicylate,A. thaliana,1.181892615,Phenolics 
+Cis-4-Hydroxyl-L-proline,A. thaliana,2.522739504,Non-proteinogenic amino acids
+TriMethylamine N-oxide ,A. thaliana,1.446685816,Non-proteinogenic amino acids
+N-Alpha-L Ornithine,A. thaliana,0.818820765,Non-proteinogenic amino acids
+Glutaric acid,A. thaliana,1.592716542,Carboxylic acids
+Spermidine,A. thaliana,0.391271657,Amino acid related
+Lysine,A. thaliana,1.36510862,"Amines, hexosamines and alkaloids "
+Glutamic Acid,A. thaliana,0.883353169,Carboxylic acids
+Triethanolamine,A. thaliana,0.411108041,Amino acid related
+Histidine,A. thaliana,1.368779139,"Amines, hexosamines and alkaloids "
+Pyridoxine,A. thaliana,0.025550551,Cofactor-related 
+1-Methylhistidine,A. thaliana,2.161254939,Non-proteinogenic amino acids
+Dehydroascorbic acid,A. thaliana,1.00281163,Carboxylic acids
+Methionine sulfone,A. thaliana,1.045719899,"Amines, hexosamines and alkaloids "
+Spermine,A. thaliana,0.740836248,Amino acid related
+Carnosine,A. thaliana,0.174595185,"Amines, hexosamines and alkaloids "
+Eriodictyol,A. thaliana,0.47544654,Phenolics 
+Sarcosine,A. thaliana,1.804073639,Non-proteinogenic amino acids
+Hypotaurine,A. thaliana,7.048650576,Sulfur-containing metabolites  
+Niacinamide,A. thaliana,1.063779764,Cofactor-related 
+Nicotinamide,A. thaliana,0.882410179,Cofactor-related 
+Nicotinic acid,A. thaliana,1.44755972,Carboxylic acids
+2-Guanidinopropionic acid,A. thaliana,2.267150149,Carboxylic acids
+3-Ureidopropionic acid,A. thaliana,2.379774274,Carboxylic acids
+Aspartic Acid,A. thaliana,2.793384334,Carboxylic acids
+Alanine,A. thaliana,1.788802297,"Amines, hexosamines and alkaloids "
+Adenine,A. thaliana,1.759314675,Nucleotide-related 
+DL-Homocysteine,A. thaliana,6.026950271,Non-proteinogenic amino acids
+Anthranilic acid,A. thaliana,1.195330883,Carboxylic acids
+4-Imidazoleacrylic acd,A. thaliana,0.977702699,Carboxylic acids
+Tropinone,A. thaliana,1.018075885,Amino acid related
+Acetylcholine,A. thaliana,0.991646646,Fatty acids and lipids
+Methionine,A. thaliana,1.395534348,"Amines, hexosamines and alkaloids "
+3-Methyladenine,A. thaliana,1.542064932,Nucleotide-related 
+1-Aminocyclopropane-1-carboxylic acid (1-ACC),A. thaliana,1.464027627,Carboxylic acids
+Guanine,A. thaliana,2.076393655,Nucleotide-related 
+"2,3-Pyridinedicarboxylic acid",A. thaliana,1.089592814,Carboxylic acids
+Acetylsalicylic acid,A. thaliana,1.301722149,Carboxylic acids
+"3, 4 Dihydroxy phenyl alanine",A. thaliana,0.183948314,Non-proteinogenic amino acids
+O-Succinyl L-Homoserine,A. thaliana,2.237051953,Non-proteinogenic amino acids
+Cytidine,A. thaliana,1.11274767,Nucleotide-related 
+Betaine Aldehyde,A. thaliana,5.882795619,Non-proteinogenic amino acids
+1-Octacosanol,A. thaliana,4.683452178,Fatty acids and lipids
+Dopamine,A. thaliana,1.321291136,Amino acid related
+Ascorbic acid,A. thaliana,0.819661371,Carboxylic acids
+Cadaverine,A. thaliana,2.661668496,Amino acid related
+2-Hydroxypyridine,A. thaliana,3.297588707,Amino acid related
+Betaine,A. thaliana,0.558249575,Non-proteinogenic amino acids
+Thymine,A. thaliana,0.889771402,Nucleotide-related 
+Pyroglutamic acid,A. thaliana,0.866906627,Carboxylic acids
+3-Hydroxyanthranilic acid,A. thaliana,0.562853782,Carboxylic acids
+"2,3-Dihydroxybenzoic Acid",A. thaliana,0.67051583,Carboxylic acids
+"N,N-Dimethylglycine ",A. thaliana,0.234226818,"Amines, hexosamines and alkaloids "
+Tryptamine,A. thaliana,0.645483194,Amino acid related
+HomoMethionine,A. thaliana,1.573856305,"Amines, hexosamines and alkaloids "
+Phenylalanine,A. thaliana,1.715817715,"Amines, hexosamines and alkaloids "
+Serotonin,A. thaliana,2.999103564,Amino acid related
+N-formyl-L-methionine,A. thaliana,0.689053871,Non-proteinogenic amino acids
+Caffeine,A. thaliana,1.507260062,Amino acid related
+6-Furfurylaminopurine,A. thaliana,1.808133609,Nucleotide-related 
+Zeatin,A. thaliana,1.556697525,Nucleotide-related 
+N-Acetylmannosamine,A. thaliana,2.299063396,Amino acid related
+1-Methylguanidine,A. thaliana,1.237830752,Nucleotide-related 
+Tricine,A. thaliana,1.108286448,Non-proteinogenic amino acids
+Tangeritin,A. thaliana,1.185966685,Phenolics 
+Pseudolaric acid,A. thaliana,1.1150155,Carboxylic acids
+Linolenic acid,A. thaliana,0.948899238,Carboxylic acids
+12-oxo-phytodienoic acid,A. thaliana,1.18852729,Carboxylic acids
+Methyl jasmonate,A. thaliana,0.927930414,Fatty acids and lipids
+Tryptophan,A. thaliana,0.489304721,"Amines, hexosamines and alkaloids "
+Salicylic acid,A. thaliana,0.606705644,Carboxylic acids
+Phosphoenolpyruvic acid,A. thaliana,1.599291722,Carboxylic acids
+Sinapinic acid,A. thaliana,1.812377523,Carboxylic acids
+Cystathionine,A. thaliana,0.164583387,Sulfur-containing metabolites  
+Thiamine,A. thaliana,0.747697328,Amino acid related
+Fructose 6-phosphate,A. thaliana,1.105719115,Carbohydrates
+"Fructose 1,6-bisphosphate",A. thaliana,0.532205158,Carbohydrates
+Adenosine diphosphate,A. thaliana,1.419656104,Nucleotide-related 
+"5,6-Dihydrouracil",A. thaliana,0.707263984,Nucleotide-related 
+Adenosine triphosphate,A. thaliana,4.406271587,Nucleotide-related 
+Jasmonoyl isoleucine (JA-Ile),A. thaliana,1.453188233,Fatty acids and lipids
+Ribose 5 phosphate,A. thaliana,2.915897827,Carbohydrates
+"Ribulose 1,5 bisphosphate",A. thaliana,3.785889514,Carbohydrates
+Dihydrozeatin,A. thaliana,2.952219696,Nucleotide-related 
+Dihydrojasmonic acid,A. thaliana,2.334502542,Carboxylic acids
+Dihydrojasmonic acid methylester,A. thaliana,2.248626445,Carboxylic acids
+Trans zeatin glucoside,A. thaliana,1.626958519,Nucleotide-related 
+Pinitol,A. thaliana,0.075716911,Carbohydrates
+Pyridoxal 5 phosphate,A. thaliana,0.349311965,Cofactor-related 
+Ribulose 5 phosphate,A. thaliana,0.436311435,Carbohydrates
+1-Methylnicotinamide,A. thaliana,0.825901048,Cofactor-related 
+Oleic acid ethyl ester,A. thaliana,17.50119465,Carboxylic acids
+Gentisic acid,A. thaliana,0.305215128,Carboxylic acids
+Guanidine,A. thaliana,3.272302781,Amino acid related
+N-acetyl-L-cysteine,A. thaliana,1.737315735,Non-proteinogenic amino acids
+Valproic acid,A. thaliana,0.406970411,Carboxylic acids
+Salicin,A. thaliana,0.265234063,Phenolics 
+Celastrol,A. thaliana,1.037257254,Phenolics 
+"Inositol 1,4,5-trisphosphate (IP3)",A. thaliana,1.654942971,Fatty acids and lipids
+Abscisic acid glucose ester,A. thaliana,3.20333246,Terpenoids
+Traumatic acid,A. thaliana,1.747238027,Carboxylic acids
+Phaseic acid,A. thaliana,1.244513462,Carboxylic acids
+Glyceraldehyde 3 phosphate,A. thaliana,0.732955716,Carbohydrates
+Allantoin,A. thaliana,0.883419122,Nucleotide-related 
+Methyl indole acetate,A. thaliana,4.684782773,Carboxylic acids
+Jasmonic acid,A. thaliana,0.826851064,Carboxylic acids
+Retinol ,A. thaliana,1.998565899,Cofactor-related 
+2-Phosphoglyceric acid,A. thaliana,0.552267329,Carboxylic acids
+3-isopropylmalic acid,A. thaliana,1.956285322,Carboxylic acids
+3-phosphoglyceric acid,A. thaliana,0.841816279,Carboxylic acids
+3-Methyl-histidine,A. thaliana,2.883501812,Non-proteinogenic amino acids
+Protocatechuic acid,A. thaliana,1.001308563,Carboxylic acids
+Gallic acid,A. thaliana,0.606674268,Carboxylic acids
+4-hydroxybenzyl alcohol,A. thaliana,0.752143397,Phenolics 
+N6-isopentenyladenine,A. thaliana,0.904241757,Nucleotide-related 
+Linodeic acid,A. thaliana,0.860845112,Carboxylic acids
+"Inositol-2,4-diphosphate",A. thaliana,0.79204422,Fatty acids and lipids
+Methylthiobutyric acid,A. thaliana,0.935889667,Carboxylic acids
+Linoleic acid,A. thaliana,1.355998341,Carboxylic acids
+Linolenic acid ethylester,A. thaliana,0.835804251,Carboxylic acids
+Oleic acid,A. thaliana,0.999507184,Carboxylic acids
+Oxaloacetic acid,A. thaliana,0.868301718,Carboxylic acids
+2-Fluoropalmitic acid,A. thaliana,0.145490811,Carboxylic acids
+"N,N-Dimethylsphingosine",A. thaliana,1.036119591,Fatty acids and lipids
+Dimethylglycine,V. faba,0.872282472,Non-proteinogenic amino acids
+2-Aminoethanol,V. faba,1.213211195,Amino acid related
+Docosapentaenoic acid,V. faba,2.389311045,Fatty acids and lipids
+Batyl alcohol,V. faba,0.727500817,Fatty acids and lipids
+Lactitol,V. faba,0.972131249,Carbohydrates
+Maltitol,V. faba,1.352457708,Carbohydrates
+5'-Methylthioadenosine,V. faba,1.174693419,Nucleotide-related 
+Phosphoric acid,V. faba,0.546161026,Carboxylic acids
+Proline,V. faba,1.839842648,"Amines, hexosamines and alkaloids "
+Phenylacetic acid,V. faba,0.379839994,Carboxylic acids
+3-Hydroxypyruvic acid,V. faba,1.075272198,Carboxylic acids
+Uracil,V. faba,0.586172551,Nucleotide-related 
+Glyoxylic acid,V. faba,0.871150683,Carboxylic acids
+Acetylglycine,V. faba,0.499756822,Non-proteinogenic amino acids
+3-Aminopropanoic acid,V. faba,0.975199019,Carboxylic acids
+Erythrulose,V. faba,1.314138404,Carbohydrates
+N-Acetylserine,V. faba,1.859410551,Non-proteinogenic amino acids
+Lactic acid,V. faba,1.780570045,Carboxylic acids
+3-Aminoglutaric acid,V. faba,0.912109011,Carboxylic acids
+4-Aminobutyric acid,V. faba,1.336822665,Carboxylic acids
+Threonic acid,V. faba,1.483467082,Carboxylic acids
+2-Ketoglutaric acid,V. faba,0.686522066,Carboxylic acids
+Xylose,V. faba,1.272769965,Carbohydrates
+Ureidopropionic acid,V. faba,1.605002402,Carboxylic acids
+Threo-b-hydroxyaspartic acid,V. faba,0.406731547,Carboxylic acids
+2-Ketoadipic acid,V. faba,1.568155803,Carboxylic acids
+N-Acetylaspartic acid,V. faba,1.243425931,Carboxylic acids
+Asparagine,V. faba,1.601471583,"Amines, hexosamines and alkaloids "
+Ribonolactone,V. faba,1.051027878,Carbohydrates
+Arabitol,V. faba,0.891605307,Carbohydrates
+"1,6-Anhydroglucose",V. faba,0.893103722,Carbohydrates
+Rhamnose,V. faba,0.956385704,Carbohydrates
+2-Deoxy-glucose,V. faba,0.893213521,Carbohydrates
+Dihydroxyacetone phosphate,V. faba,0.549525497,Carbohydrates
+Glycerol 3-phosphate,V. faba,0.787743054,Carbohydrates
+2-Aminopimelic acid,V. faba,0.697460108,Carboxylic acids
+Arginine,V. faba,2.335031132,"Amines, hexosamines and alkaloids "
+Glycyl-Glycine,V. faba,3.113471322,Non-proteinogenic amino acids
+Psicose,V. faba,3.971175623,Carbohydrates
+Pyridoxal,V. faba,4.581255153,Amino acid related
+Sorbose,V. faba,3.897499932,Carbohydrates
+Allose,V. faba,3.070616549,Carbohydrates
+Valine,V. faba,1.013797977,"Amines, hexosamines and alkaloids "
+"Glucono-1,5-lactone",V. faba,3.004303743,Carbohydrates
+Hippuric acid,V. faba,3.247826791,Carboxylic acids
+Mannose,V. faba,3.525696887,Carbohydrates
+Erythrose 4-phosphate,V. faba,1.450385493,Carbohydrates
+Galactosamine,V. faba,1.863783118,Amino acid related
+Pyridoxamine,V. faba,1.803001853,Amino acid related
+S-Benzyl-Cysteine,V. faba,0.997040475,"Amines, hexosamines and alkaloids "
+Inositol,V. faba,1.033785187,Carbohydrates
+Kynurenic acid,V. faba,0.941527588,Carboxylic acids
+Uric acid,V. faba,0.942241614,Carboxylic acids
+Metoprolol,V. faba,1.001622623,Amino acid related
+Kynurenine,V. faba,0.616908398,"Amines, hexosamines and alkaloids "
+Suberylglycine,V. faba,0.778844246,Non-proteinogenic amino acids
+Mannose 6-phosphate,V. faba,1.051605185,Carbohydrates
+5-Methoxytryptamine,V. faba,1.344494959,Amino acid related
+N-Acetylneuraminic acid,V. faba,2.282929449,Carboxylic acids
+Tyrosine,V. faba,0.435494705,"Amines, hexosamines and alkaloids "
+Hexuronic acid,V. faba,1.193411068,Carboxylic acids
+Hexose-6-phosphate,V. faba,1.011358856,Carbohydrates
+Heptadecanoic acid,V. faba,1.06574515,Carboxylic acids
+Guanosine,V. faba,0.809156095,Nucleotide-related 
+Glycyl Proline,V. faba,2.278203724,Non-proteinogenic amino acids
+Glycine,V. faba,1.921052632,"Amines, hexosamines and alkaloids "
+Glycerol-3-galactoside,V. faba,1.301527183,Carbohydrates
+Tyramine,V. faba,2.956693168,Amino acid related
+Glyceric acid,V. faba,0.999696866,Carboxylic acids
+Glutamine,V. faba,2.385535926,"Amines, hexosamines and alkaloids "
+Glucose-6-phosphate,V. faba,1.503161947,Carbohydrates
+Glucose-1-phosphate,V. faba,1.973675611,Carbohydrates
+Glucose,V. faba,2.711511317,Carbohydrates
+Gluconic acid lactone,V. faba,1.122108705,Carboxylic acids
+Gluconic acid,V. faba,1.397241379,Carboxylic acids
+Galacturonic acid,V. faba,0.792266557,Carboxylic acids
+Trisaccharide,V. faba,1.031818182,Carbohydrates
+Galactose,V. faba,2.563510551,Carbohydrates
+Galactinol,V. faba,1.514588101,Carbohydrates
+Fumaric acid,V. faba,2.279397354,Carboxylic acids
+Fucose,V. faba,1.024011476,Carbohydrates
+Fructose,V. faba,1.921825562,Carbohydrates
+Ethanolamine,V. faba,1.364369151,Ethanolamine
+Erythrose,V. faba,0.60046145,Carbohydrates
+Erythronic acid lactone,V. faba,1.163022684,Carboxylic acids
+Epsilon-caprolactam,V. faba,1.085762569,Fatty acids and lipids
+Trehalose,V. faba,0.676279603,Carbohydrates
+Enolpyruvate,V. faba,1.294632439,Carboxylic acids
+Dihydroxyacetone,V. faba,0.60147597,Carbohydrates
+Digitoxose,V. faba,1.001155174,Carbohydrates
+Cyanoalanine,V. faba,1.786255028,"Amines, hexosamines and alkaloids "
+Conduritol-beta-epoxide,V. faba,1.099110546,Carbohydrates
+Citrulline,V. faba,2.161925484,Non-proteinogenic amino acids
+Citric acid,V. faba,0.943828083,Carboxylic acids
+Citramalic acid,V. faba,1.125661843,Carboxylic acids
+Cerotinic acid,V. faba,1.080469769,Carboxylic acids
+Cellobiose,V. faba,1.369420703,Carbohydrates
+Capric acid,V. faba,1.187628866,Fatty acids and lipids
+Butyrolactam,V. faba,1.299266468,Amino acid related
+Butylamine,V. faba,0.86266992,Amino acid related
+Beta-gentiobiose,V. faba,0.428110289,Carbohydrates
+Beta-alanine,V. faba,1.037917534,"Amines, hexosamines and alkaloids "
+Benzoic acid,V. faba,1.010599793,Carboxylic acids
+Arachidic acid,V. faba,0.928681244,Carboxylic acids
+Alpha-Ketoglutarate,V. faba,0.833279189,Carboxylic acids
+Alpha-Aminoadipic acid,V. faba,1.842553191,"Amines, hexosamines and alkaloids "
+Alloxanoic acid,V. faba,0.78431587,Carboxylic acids
+Allantoic acid,V. faba,1.154966481,Carboxylic acids
+Tagatose,V. faba,2.750486734,Carbohydrates
+Aconitic acid,V. faba,0.573832722,Carboxylic acids
+6-Deoxyglucose,V. faba,1.523771226,Carbohydrates
+5-Methyluridine,V. faba,0.364296936,Nucleotide-related 
+5-Aminovaleric acid,V. faba,1.899719589,"Amines, hexosamines and alkaloids "
+4-Methylbenzenesulfonamide,V. faba,0.701237525,Sulfur-containing metabolites  
+4-Hydroxybutyric acid,V. faba,1.215337423,Carboxylic acids
+4-Hydroxybenzoic acid (4-Hba),V. faba,0.819351518,Carboxylic acids
+Sucrose,V. faba,7.262832277,Carbohydrates
+3-Hydroxypropionic acid,V. faba,1.395148692,Carboxylic acids
+3-Dehydroshikimic acid,V. faba,1.853820598,Carboxylic acids
+3-Aminoisobutyric acid,V. faba,1.145011241,Non-proteinogenic amino acids
+"3,4-Dihydroxyphenylacetic acid",V. faba,2.035089283,Carboxylic acids
+"3,4-Dihydroxybenzoic acid",V. faba,2.033491903,Carboxylic acids
+2-Monopalmitin,V. faba,1.067673988,Fatty acids and lipids
+2-Methylglyceric acid,V. faba,1.175283286,Carboxylic acids
+2-Hydroxyglutaric acid,V. faba,1.919942816,Carboxylic acids
+2-Deoxytetronic acid,V. faba,1.288464006,Carboxylic acids
+2-Deoxyerythritol,V. faba,1.407520903,Carbohydrates
+Succinic acid,V. faba,1.697003563,Carboxylic acids
+1-Monostearin,V. faba,0.874590721,Fatty acids and lipids
+1-Monopalmitin,V. faba,0.871525889,Fatty acids and lipids
+1-Monoolein,V. faba,1.330875681,Fatty acids and lipids
+1-Monoheptadecanoyl glyceride,V. faba,0.903273083,Fatty acids and lipids
+1-Hexadecanol,V. faba,1.237291898,Fatty acids and lipids
+1-Deoxyerythritol,V. faba,0.439957007,Carbohydrates
+"1,3,5-Trimethylcyanuric acid",V. faba,0.916528094,Carboxylic acids
+"1,2,4-Benzenetriol",V. faba,1.986359019,Phenolics 
+Succinate semialdehyde,V. faba,0.7808,Carboxylic acids
+Xylonolactone,V. faba,1.08559788,Carbohydrates
+Stearic acid,V. faba,0.847904201,Carboxylic acids
+Sorbitol,V. faba,1.061117608,Carbohydrates
+Sophorose,V. faba,0.942961165,Carbohydrates
+Shikimic acid,V. faba,1.425097813,Carboxylic acids
+Serine,V. faba,1.94255251,"Amines, hexosamines and alkaloids "
+Saccharic acid,V. faba,0.847557316,Carboxylic acids
+Ribonic acid,V. faba,1.048761758,Carboxylic acids
+Xylonic acid isomer,V. faba,0.515732954,Carboxylic acids
+Ribitol,V. faba,2.273038304,Carbohydrates
+Raffinose,V. faba,2.48364486,Carbohydrates
+Pseudo uridine,V. faba,0.902544307,Nucleotide-related 
+Pipecolinic acid,V. faba,1.23322884,Carboxylic acids
+Pentitol,V. faba,1.284393359,Carbohydrates
+Pentadecanoic acid,V. faba,0.667356475,Carboxylic acids
+Xylonic acid,V. faba,0.953102453,Carboxylic acids
+Pelargonic acid,V. faba,0.995551184,Carboxylic acids
+Parabanic acid,V. faba,0.753723514,Carboxylic acids
+Palmitic acid,V. faba,0.899571548,Carboxylic acids
+Oxoproline,V. faba,1.238797284,Non-proteinogenic amino acids
+Oxalic acid,V. faba,1.007253627,Carboxylic acids
+Orotic acid,V. faba,4.784233775,Carboxylic acids
+Ornithine,V. faba,4.172707955,Non-proteinogenic amino acids
+Octadecanol,V. faba,1.492260062,Fatty acids and lipids
+O-acetyl-L-serine,V. faba,3.319586126,Non-proteinogenic amino acids
+Norvaline,V. faba,0.920848335,Non-proteinogenic amino acids
+N-Acetylornithine,V. faba,1.011345853,Non-proteinogenic amino acids
+N-Acetyl-D-hexosamine,V. faba,1.9953125,Amino acid related
+N-Acetyl-D-galactosamine,V. faba,0.744544971,Amino acid related
+Myristic acid,V. faba,0.947784519,Carboxylic acids
+Mucic acid,V. faba,0.775876216,Carboxylic acids
+Urocanic acid,V. faba,3.898191561,Carboxylic acids
+Montanic acid,V. faba,0.788199697,Carboxylic acids
+Monomyristin,V. faba,0.884966962,Fatty acids and lipids
+Methylhexose,V. faba,1.104353781,Carbohydrates
+Methyl O-galactopyranoside,V. faba,0.792693639,Carbohydrates
+Methionine sulfoxide,V. faba,2.164772727,"Amines, hexosamines and alkaloids "
+Melibiose,V. faba,0.467532468,Carbohydrates
+Mannonic acid,V. faba,0.894067797,Carboxylic acids
+Mannitol,V. faba,1.259967262,Carbohydrates
+Uridine,V. faba,0.873908297,Nucleotide-related 
+Maltotriose,V. faba,1.139103555,Carbohydrates
+Maleic acid,V. faba,2.416420555,Carboxylic acids
+Lyxose,V. faba,0.767571533,Carbohydrates
+Lyxitol,V. faba,2.893778983,Carbohydrates
+Lignoceric acid,V. faba,0.814430613,Carboxylic acids
+Levoglucosan,V. faba,1.174872411,Carbohydrates
+Leucrose,V. faba,1.403314917,Carbohydrates
+Leucine,V. faba,0.616241668,"Amines, hexosamines and alkaloids "
+Dopa,V. faba,0.879058223,Non-proteinogenic amino acids
+Lauric acid,V. faba,0.421807747,Carboxylic acids
+Lactulose,V. faba,1.702259986,Carbohydrates
+Lactobionic acid,V. faba,0.215943155,Carboxylic acids
+Lactamide,V. faba,1.270860077,Carboxylic acids
+Isothreonic acid,V. faba,0.855898722,Carboxylic acids
+Isothreitol,V. faba,1.054194386,Carbohydrates
+Isoribose,V. faba,1.345989559,Carbohydrates
+Isoleucine,V. faba,1.745232194,"Amines, hexosamines and alkaloids "
+Isohexonic acid,V. faba,0.93256059,Carboxylic acids
+Isocitric acid,V. faba,0.894203937,Carboxylic acids
+Isobutene glycol,V. faba,0.490221578,Carbohydrates
+Inositol-4-monophosphate,V. faba,0.698563296,Fatty acids and lipids
+Ile-Ile,V. faba,1.178998779,Non-proteinogenic amino acids
+Hypoxanthine,V. faba,1.317769131,Nucleotide-related 
+Hydroxylamine,V. faba,0.830029714,Amino acid related
+Hydroxycarbamate,V. faba,0.617590324,Carbohydrates
+Homoserine,V. faba,4.535842294,Non-proteinogenic amino acids
+Glycolic acid,V. faba,1.535256983,Carboxylic acids
+Ribose-5-phosphate,V. faba,0.601172634,Carbohydrates
+Neohesperidin,V. faba,0.534985622,Phenolics 
+Gibberellin A4,V. faba,0.455400124,Terpenoids
+Lipoic acid,V. faba,0.434859968,Carboxylic acids
+Carnosol,V. faba,0.124111428,Phenolics 
+mannose-6-phosphate,V. faba,0.993794525,Carbohydrates
+Alpha-D-Mannose-1-Phosphate,V. faba,1.161791668,Carbohydrates
+Uridine-5-monophosphate,V. faba,2.027511484,Nucleotide-related 
+Maltose,V. faba,1.683085429,Carbohydrates
+1-Kestose,V. faba,0.791200352,Carbohydrates
+Malonic acid,V. faba,0.819202861,Carboxylic acids
+Inosine 5 monophosphate,V. faba,1.111494297,Nucleotide-related 
+Phosphoribosyl diphosphate ,V. faba,0.594977391,Nucleotide-related 
+Guanosine monophosphate,V. faba,3.544113817,Nucleotide-related 
+Guanosine diphosphate,V. faba,1.365416549,Nucleotide-related 
+Guanosine triphosphate,V. faba,1.260844056,Nucleotide-related 
+Ribose,V. faba,0.817059321,Carbohydrates
+Pyruvic acid,V. faba,0.83161769,Carboxylic acids
+2-Hydroxyisobutyric acid,V. faba,0.958519191,Carboxylic acids
+Methylmalonic acid,V. faba,0.170058316,Carboxylic acids
+Mesaconic acid,V. faba,0.61040582,Carboxylic acids
+Ethylmalonic acid,V. faba,0.596363364,Carboxylic acids
+Dihydroorotic acid,V. faba,0.707262925,Carboxylic acids
+Pimelic acid,V. faba,0.812430887,Carboxylic acids
+O-phospho Serine,V. faba,0.930318256,Non-proteinogenic amino acids
+2-Isopropylmalic acid,V. faba,0.156298108,Carboxylic acids
+Caffeic acid,V. faba,1.324348024,Carboxylic acids
+2-Deoxyinosine,V. faba,4.56926497,Nucleotide-related 
+2-Deoxy inosine-5-Triphosphate,V. faba,0.833612149,Nucleotide-related 
+Chlorogenic acid,V. faba,0.166881191,Carboxylic acids
+Rosmarinic acid,V. faba,0.827724496,Carboxylic acids
+Glucuronic acid,V. faba,0.731701751,Carboxylic acids
+Riboflavin-5-monophosphate,V. faba,0.593063031,Cofactor-related 
+Biotin,V. faba,0.635994726,Cofactor-related 
+Dodecanoic acid,V. faba,0.39698984,Carboxylic acids
+Gibberellin A1,V. faba,0.526882236,Terpenoids
+4-Nitrophenol,V. faba,1.420158534,Phenolics 
+Adonitol,V. faba,0.926233831,Carbohydrates
+2-Hydroxyphenylacetic acid,V. faba,0.686601269,Carboxylic acids
+Mandelic acid,V. faba,0.64977895,Carboxylic acids
+Cysteine-S-Sulfate,V. faba,1.15373384,"Amines, hexosamines and alkaloids "
+Xanthine,V. faba,1.150325714,Nucleotide-related 
+"3,4- Dihydroxy phenyl acetic acid",V. faba,1.35664774,Carboxylic acids
+Gulonic acid gamma lactone,V. faba,0.931093871,Carboxylic acids
+6-methoxy cinnamic acid,V. faba,1.146681559,Carboxylic acids
+"6,7 Dihydrxy coumarin",V. faba,0.736328284,Phenolics 
+3-Hydroxy 4-Methoxy Cinnamic acid,V. faba,0.762894871,Carboxylic acids
+7-Hydroxyflavone,V. faba,0.731700312,Phenolics 
+2-Deoxyribose-5-phosphate,V. faba,2.01272933,Carbohydrates
+6-Hydroxy flavone,V. faba,0.836216582,Phenolics 
+Isoliquiritigenin,V. faba,0.260962229,Phenolics 
+Apigenin,V. faba,1.569725462,Phenolics 
+Naringenin,V. faba,0.523877188,Phenolics 
+Lignoceryl alcohol,V. faba,0.526955551,Fatty acids and lipids
+Isomaltose,V. faba,0.598663334,Carbohydrates
+"1,3,-Diaminopropane",V. faba,3.320346384,Amino acid related
+"1,4-Diaminobutane (Putrescine)",V. faba,3.320346384,Amino acid related
+Histamine,V. faba,0.336718344,Amino acid related
+2-Deoxy uridine,V. faba,0.625517993,Nucleotide-related 
+2-Deoxyadenosine,V. faba,0.592318049,Nucleotide-related 
+2-Deoxyguanosine,V. faba,1.69452781,Nucleotide-related 
+Adenosine,V. faba,0.903409129,Nucleotide-related 
+Inosine,V. faba,0.872526943,Nucleotide-related 
+Catechin,V. faba,0.499966462,Phenolics 
+Epicatechin,V. faba,0.54055121,Phenolics 
+5-Deoxy-5-methylthio-adenosine,V. faba,2.016726451,Nucleotide-related 
+Cytosine,V. faba,1.184950873,Nucleotide-related 
+Glutathione reduced GSH,V. faba,0.954119434,Sulfur-containing metabolites  
+2-Deoxyadenosine-5-monophosphate,V. faba,0.848593389,Nucleotide-related 
+Cyclic guanosine monophosphate,V. faba,0.355238225,Nucleotide-related 
+2-Deoxyguanosine-5-monophosphate,V. faba,0.665094886,Nucleotide-related 
+Adenosine-3-monophosphate,V. faba,0.678015625,Nucleotide-related 
+"(6R)-5,6,7,8-Tetrahydrobiopterin",V. faba,1.590017991,Nucleotide-related 
+Riboflavin,V. faba,0.629747079,Cofactor-related 
+Callistephin,V. faba,1.548580308,Phenolics 
+Folic acid,V. faba,1.49214792,Carboxylic acids
+Glutathione oxidized,V. faba,0.788631747,Sulfur-containing metabolites  
+Threonine,V. faba,1.093336278,"Amines, hexosamines and alkaloids "
+Xanthosine,V. faba,0.61186027,Nucleotide-related 
+Malic acid,V. faba,19.7190492,Carboxylic acids
+Citraconic Acid,V. faba,1.87276671,Carboxylic acids
+Vanillin,V. faba,1.050281009,Phenolics 
+Indole carboxylic acid,V. faba,0.372173397,Carboxylic acids
+Coumaric acid,V. faba,0.307324777,Carboxylic acids
+o-hydroxycinnamic acid,V. faba,0.351414724,Carboxylic acids
+"3,4-Hydroxyphenylpropionic acid",V. faba,2.162655107,Carboxylic acids
+3-Indole-Acetic Acid,V. faba,1.173070201,Carboxylic acids
+Cysteine,V. faba,1.340675845,"Amines, hexosamines and alkaloids "
+4-Hydroxy-3-methoxycinnamaldehyde,V. faba,0.726354089,Phenolics 
+Ferulic acid,V. faba,0.179751568,Carboxylic acids
+Syringic acid,V. faba,0.591946754,Carboxylic acids
+Melatonin,V. faba,0.799450165,Amino acid related
+Naphthylacid phosphate,V. faba,0.55199778,Carboxylic acids
+Gamma-Glu-Cys,V. faba,0.618433795,Non-proteinogenic amino acids
+Liquiritigenin,V. faba,1.734782297,Phenolics 
+Genistein,V. faba,0.976873763,Phenolics 
+2-aminoethylphosphonic acid,V. faba,1.208400498,Carboxylic acids
+Cyanidin,V. faba,0.241030909,Phenolics 
+Alpha-lactose,V. faba,0.911062088,Carbohydrates
+Gibberellin A3,V. faba,0.675168621,Terpenoids
+Luteolin-7-beta-glucoside,V. faba,0.913548392,Phenolics 
+Epibrassinolide,V. faba,0.860462997,Terpenoids
+Abscisic acid,V. faba,0.96149389,Terpenoids
+Syringaldehyde,V. faba,1.540971227,Phenolics 
+Kaempferol,V. faba,1.172650635,Phenolics 
+Resveratrol,V. faba,0.854131646,Phenolics 
+Nordihydro guaiaretic acid,V. faba,0.989783716,Carboxylic acids
+Agmatine,V. faba,1.323289631,Amino acid related
+Carnitine,V. faba,1.289481466,"Amines, hexosamines and alkaloids "
+1-Methylhistamine ,V. faba,1.658066845,Amino acid related
+Nicotine,V. faba,1.032078256,Amino acid related
+Buthionine-sulfoximine,V. faba,1.594508888,Sulfur-containing metabolites  
+Thymidine,V. faba,0.475991201,Nucleotide-related 
+Dihydrophaseic acid,V. faba,0.755329959,Carboxylic acids
+Biochanin A 4-methylgeistein,V. faba,0.640704791,Phenolics 
+Sphingosine,V. faba,0.717886979,Fatty acids and lipids
+Kaempferide,V. faba,0.69376844,Phenolics 
+Capsaicin,V. faba,1.067529289,Phenolics 
+Trans-4-hydroxyl-L-proline,V. faba,0.306533366,Non-proteinogenic amino acids
+Methyl salicylate,V. faba,0.964945407,Phenolics 
+Cis-4-Hydroxyl-L-proline,V. faba,0.279135553,Non-proteinogenic amino acids
+TriMethylamine N-oxide ,V. faba,4.705367301,Non-proteinogenic amino acids
+N-Alpha-L Ornithine,V. faba,0.790278685,Non-proteinogenic amino acids
+Glutaric acid,V. faba,0.900037503,Carboxylic acids
+Spermidine,V. faba,3.959329249,Amino acid related
+Lysine,V. faba,0.874621745,"Amines, hexosamines and alkaloids "
+Glutamic Acid,V. faba,0.643631201,Carboxylic acids
+Triethanolamine,V. faba,1.558358762,Amino acid related
+Histidine,V. faba,0.977936761,"Amines, hexosamines and alkaloids "
+Pyridoxine,V. faba,2.378473734,Cofactor-related 
+1-Methylhistidine,V. faba,2.021557217,Non-proteinogenic amino acids
+Dehydroascorbic acid,V. faba,1.730235882,Carboxylic acids
+Methionine sulfone,V. faba,0.528128127,"Amines, hexosamines and alkaloids "
+Spermine,V. faba,2.379769139,Amino acid related
+Carnosine,V. faba,1.329742463,"Amines, hexosamines and alkaloids "
+Eriodictyol,V. faba,3.394674147,Phenolics 
+Sarcosine,V. faba,1.056708633,Non-proteinogenic amino acids
+Hypotaurine,V. faba,0.944570654,Sulfur-containing metabolites  
+Niacinamide,V. faba,0.740297905,Cofactor-related 
+Nicotinamide,V. faba,1.090458192,Cofactor-related 
+Nicotinic acid,V. faba,0.139230863,Carboxylic acids
+2-Guanidinopropionic acid,V. faba,1.071975266,Carboxylic acids
+3-Ureidopropionic acid,V. faba,0.820180556,Carboxylic acids
+Aspartic Acid,V. faba,2.437295114,Carboxylic acids
+Alanine,V. faba,1.06443751,"Amines, hexosamines and alkaloids "
+Adenine,V. faba,0.853877883,Nucleotide-related 
+DL-Homocysteine,V. faba,0.957983588,Non-proteinogenic amino acids
+Anthranilic acid,V. faba,0.763605911,Carboxylic acids
+4-Imidazoleacrylic acd,V. faba,0.728253786,Carboxylic acids
+Tropinone,V. faba,13.88123224,Amino acid related
+Acetylcholine,V. faba,0.886665236,Fatty acids and lipids
+Methionine,V. faba,1.409330082,"Amines, hexosamines and alkaloids "
+3-Methyladenine,V. faba,0.891264779,Nucleotide-related 
+1-Aminocyclopropane-1-carboxylic acid (1-ACC),V. faba,0.61172703,Carboxylic acids
+Guanine,V. faba,0.919820779,Nucleotide-related 
+"2,3-Pyridinedicarboxylic acid",V. faba,0.949754652,Carboxylic acids
+Acetylsalicylic acid,V. faba,0.626836889,Carboxylic acids
+"3, 4 Dihydroxy phenyl alanine",V. faba,1.059532326,Non-proteinogenic amino acids
+O-Succinyl L-Homoserine,V. faba,0.775701845,Non-proteinogenic amino acids
+Cytidine,V. faba,1.288758051,Nucleotide-related 
+Betaine Aldehyde,V. faba,1.110818411,Non-proteinogenic amino acids
+1-Octacosanol,V. faba,0.409156003,Fatty acids and lipids
+Dopamine,V. faba,1.038145286,Amino acid related
+Ascorbic acid,V. faba,0.880678488,Carboxylic acids
+Cadaverine,V. faba,1.257591932,Amino acid related
+2-Hydroxypyridine,V. faba,0.82485825,Amino acid related
+Betaine,V. faba,0.401541573,Non-proteinogenic amino acids
+Thymine,V. faba,1.027782627,Nucleotide-related 
+Pyroglutamic acid,V. faba,0.742609706,Carboxylic acids
+3-Hydroxyanthranilic acid,V. faba,0.656069667,Carboxylic acids
+"2,3-Dihydroxybenzoic Acid",V. faba,0.94537602,Carboxylic acids
+"N,N-Dimethylglycine ",V. faba,0.452929118,"Amines, hexosamines and alkaloids "
+Tryptamine,V. faba,2.514412066,Amino acid related
+HomoMethionine,V. faba,3.064012476,"Amines, hexosamines and alkaloids "
+Phenylalanine,V. faba,0.687815634,"Amines, hexosamines and alkaloids "
+Serotonin,V. faba,0.609670908,Amino acid related
+N-formyl-L-methionine,V. faba,1.257901286,Non-proteinogenic amino acids
+Caffeine,V. faba,1.576549007,Amino acid related
+6-Furfurylaminopurine,V. faba,0.774185704,Nucleotide-related 
+Zeatin,V. faba,1.051239594,Nucleotide-related 
+N-Acetylmannosamine,V. faba,0.97004323,Amino acid related
+1-Methylguanidine,V. faba,0.880498178,Nucleotide-related 
+Tricine,V. faba,0.791977498,Non-proteinogenic amino acids
+Tangeritin,V. faba,1.638161592,Phenolics 
+Pseudolaric acid,V. faba,0.81815991,Carboxylic acids
+Linolenic acid,V. faba,1.723128554,Carboxylic acids
+12-oxo-phytodienoic acid,V. faba,0.157325447,Carboxylic acids
+Methyl jasmonate,V. faba,0.612133051,Fatty acids and lipids
+Tryptophan,V. faba,1.158733957,"Amines, hexosamines and alkaloids "
+Salicylic acid,V. faba,1.740079282,Carboxylic acids
+Phosphoenolpyruvic acid,V. faba,1.464676754,Carboxylic acids
+Sinapinic acid,V. faba,1.582630331,Carboxylic acids
+Cystathionine,V. faba,0.728056986,Sulfur-containing metabolites  
+Thiamine,V. faba,1.323110187,Amino acid related
+Fructose 6-phosphate,V. faba,0.646492561,Carbohydrates
+"Fructose 1,6-bisphosphate",V. faba,2.83759715,Carbohydrates
+Adenosine diphosphate,V. faba,1.433871556,Nucleotide-related 
+"5,6-Dihydrouracil",V. faba,2.40690863,Nucleotide-related 
+Adenosine triphosphate,V. faba,1.014544761,Nucleotide-related 
+Jasmonoyl isoleucine (JA-Ile),V. faba,0.78700418,Fatty acids and lipids
+Ribose 5 phosphate,V. faba,1.108980227,Carbohydrates
+"Ribulose 1,5 bisphosphate",V. faba,0.598420832,Carbohydrates
+Dihydrozeatin,V. faba,0.507020826,Nucleotide-related 
+Dihydrojasmonic acid,V. faba,1.723483616,Carboxylic acids
+Dihydrojasmonic acid methylester,V. faba,0.860795933,Carboxylic acids
+Trans zeatin glucoside,V. faba,1.435388438,Nucleotide-related 
+Pinitol,V. faba,1.491506871,Carbohydrates
+Pyridoxal 5 phosphate,V. faba,0.590122159,Cofactor-related 
+Ribulose 5 phosphate,V. faba,0.297878845,Carbohydrates
+1-Methylnicotinamide,V. faba,0.82333059,Cofactor-related 
+Oleic acid ethyl ester,V. faba,1.052905529,Carboxylic acids
+Gentisic acid,V. faba,2.666533362,Carboxylic acids
+Guanidine,V. faba,1.454042191,Amino acid related
+N-acetyl-L-cysteine,V. faba,0.51342835,Non-proteinogenic amino acids
+Valproic acid,V. faba,0.577262067,Carboxylic acids
+Salicin,V. faba,0.842722548,Phenolics 
+Celastrol,V. faba,0.702363192,Phenolics 
+"Inositol 1,4,5-trisphosphate (IP3)",V. faba,1.230270651,Fatty acids and lipids
+Abscisic acid glucose ester,V. faba,2.47874468,Terpenoids
+Traumatic acid,V. faba,0.336030409,Carboxylic acids
+Phaseic acid,V. faba,1.020619712,Carboxylic acids
+Glyceraldehyde 3 phosphate,V. faba,0.741271297,Carbohydrates
+Allantoin,V. faba,1.101497033,Nucleotide-related 
+Methyl indole acetate,V. faba,4.907956949,Carboxylic acids
+Jasmonic acid,V. faba,0.567122817,Carboxylic acids
+Retinol ,V. faba,0.424231726,Cofactor-related 
+2-Phosphoglyceric acid,V. faba,0.466192946,Carboxylic acids
+3-isopropylmalic acid,V. faba,1.021456955,Carboxylic acids
+3-phosphoglyceric acid,V. faba,2.187052695,Carboxylic acids
+3-Methyl-histidine,V. faba,0.913537031,Non-proteinogenic amino acids
+Protocatechuic acid,V. faba,2.122120638,Carboxylic acids
+Gallic acid,V. faba,0.63227424,Carboxylic acids
+4-hydroxybenzyl alcohol,V. faba,0.720725902,Phenolics 
+N6-isopentenyladenine,V. faba,0.734157542,Nucleotide-related 
+Linodeic acid,V. faba,0.757993551,Carboxylic acids
+"Inositol-2,4-diphosphate",V. faba,0.746022773,Fatty acids and lipids
+Methylthiobutyric acid,V. faba,1.404380079,Carboxylic acids
+Linoleic acid,V. faba,0.638138882,Carboxylic acids
+Linolenic acid ethylester,V. faba,0.895998039,Carboxylic acids
+Oleic acid,V. faba,0.316667462,Carboxylic acids
+Oxaloacetic acid,V. faba,0.646067938,Carboxylic acids
+2-Fluoropalmitic acid,V. faba,1.052747014,Carboxylic acids
+"N,N-Dimethylsphingosine",V. faba,1.295852218,Fatty acids and lipids
