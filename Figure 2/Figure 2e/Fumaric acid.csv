@@ -1,0 +1,21 @@
+Treatment,Intensity,Group,Metabolite,Fold change,Letter
+Dark,1239.914025,Arabidopsis,Fumaric acid,18.83499254,A
+Dark,372260.9562,Arabidopsis,Fumaric acid,13.58707428,A
+Dark,58453.33575,Arabidopsis,Fumaric acid,15.59032389,A
+Dark,72191.83007,Arabidopsis,Fumaric acid,17.01534971,A
+Dark,92060.10518,Arabidopsis,Fumaric acid,15.02933037,A
+Red light,3411.19222,Arabidopsis,Fumaric acid,20.00063413,B
+Red light,135292.6177,Arabidopsis,Fumaric acid,20.68563682,B
+Red light,148566.5107,Arabidopsis,Fumaric acid,20.22036061,B
+Red light,59687.41944,Arabidopsis,Fumaric acid,19.29427073,B
+Red light,137238.772,Arabidopsis,Fumaric acid,21.54821986,B
+Dark,2834.548409,Vicia faba,Fumaric acid,10.68562484,C
+Dark,137277.8871,Vicia faba,Fumaric acid,11.02652344,C
+Dark,133417.4778,Vicia faba,Fumaric acid,10.48984796,C
+Dark,111335.0023,Vicia faba,Fumaric acid,10.98797452,C
+Dark,96907.42243,Vicia faba,Fumaric acid,9.909893084,C
+Red light,1679.641983,Vicia faba,Fumaric acid,11.35480034,D
+Red light,70062.34771,Vicia faba,Fumaric acid,11.86263736,D
+Red light,43924.42537,Vicia faba,Fumaric acid,10.95782756,D
+Red light,57282.44613,Vicia faba,Fumaric acid,12.68496773,D
+Red light,38352.52549,Vicia faba,Fumaric acid,11.85018684,D

@@ -1,0 +1,21 @@
+Treatment,Intensity,Group,Metabolite,Fold change,Letter
+Dark,1112320.394,Arabidopsis,Malic acid,6.0462299,A
+Dark,1835573.447,Arabidopsis,Malic acid,6.263771767,A
+Dark,1410501.504,Arabidopsis,Malic acid,6.149373554,A
+Dark,1263726.673,Arabidopsis,Malic acid,6.101653152,A
+Dark,1276925.181,Arabidopsis,Malic acid,6.106165451,A
+Red light,845350.9372,Arabidopsis,Malic acid,5.927037038,B
+Red light,3036652.157,Arabidopsis,Malic acid,6.482395047,B
+Red light,822121.7967,Arabidopsis,Malic acid,5.914936163,B
+Red light,646145.4331,Arabidopsis,Malic acid,5.810330279,B
+Red light,3696603.443,Arabidopsis,Malic acid,6.567802864,B
+Dark,45970.60756,Vicia faba,Malic acid,4.662480244,C
+Dark,1859566.577,Vicia faba,Malic acid,6.269411732,C
+Dark,1762734.015,Vicia faba,Malic acid,6.246186785,C
+Dark,1162768.459,Vicia faba,Malic acid,6.065493243,C
+Dark,25267.58156,Vicia faba,Malic acid,4.402563676,C
+Red light,12790401.99,Vicia faba,Malic acid,7.106884194,D
+Red light,25678540.31,Vicia faba,Malic acid,7.409570333,D
+Red light,29254321.22,Vicia faba,Malic acid,7.466190026,D
+Red light,22724547.76,Vicia faba,Malic acid,7.356495249,D
+Red light,5313950.101,Vicia faba,Malic acid,6.725417472,D

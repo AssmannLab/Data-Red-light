@@ -1,0 +1,21 @@
+Treatment,Intensity,Group,Metabolite,Fold change,Letter
+Dark,3352.208173,Arabidopsis,Methyl indole acetate,3.525330981,A
+Dark,484.5121433,Arabidopsis,Methyl indole acetate,2.685304666,A
+Dark,2429.749086,Arabidopsis,Methyl indole acetate,3.385561427,A
+Dark,6927.805218,Arabidopsis,Methyl indole acetate,3.840595669,A
+Dark,6874.540617,Arabidopsis,Methyl indole acetate,3.837243682,A
+Red light,21271.90996,Arabidopsis,Methyl indole acetate,4.327806486,B
+Red light,13401.58004,Arabidopsis,Methyl indole acetate,4.127156005,B
+Red light,13943.415,Arabidopsis,Methyl indole acetate,4.144369154,B
+Red light,17191.47614,Arabidopsis,Methyl indole acetate,4.235313169,B
+Red light,28209.65876,Arabidopsis,Methyl indole acetate,4.450397833,B
+Dark,336.1978838,Vicia faba,Methyl indole acetate,2.526594975,C
+Dark,611.7085729,Vicia faba,Methyl indole acetate,2.786544567,C
+Dark,1260.100258,Vicia faba,Methyl indole acetate,3.100405101,C
+Dark,265.6977973,Vicia faba,Methyl indole acetate,2.424387954,C
+Dark,381.7962065,Vicia faba,Methyl indole acetate,2.581831609,C
+Red light,1304.123285,Vicia faba,Methyl indole acetate,3.115318649,D
+Red light,496.1940037,Vicia faba,Methyl indole acetate,2.695651512,D
+Red light,11324.8517,Vicia faba,Methyl indole acetate,4.054032524,D
+Red light,487.6787923,Vicia faba,Methyl indole acetate,2.68813387,D
+Red light,401.8268108,Vicia faba,Methyl indole acetate,2.60403891,D

@@ -1,0 +1,21 @@
+Treatment,Intensity,Group,Metabolite,Fold change,Letter
+Dark,0.836228031,Arabidopsis,Threonic acid,0.836228031,A
+Dark,0.33868951,Arabidopsis,Threonic acid,0.33868951,A
+Dark,0.525425351,Arabidopsis,Threonic acid,0.525425351,A
+Dark,0.519514092,Arabidopsis,Threonic acid,0.519514092,A
+Dark,0.296505106,Arabidopsis,Threonic acid,0.296505106,A
+Red light,1.5908713,Arabidopsis,Threonic acid,1.5908713,B
+Red light,1.671305112,Arabidopsis,Threonic acid,1.671305112,B
+Red light,1.10942842,Arabidopsis,Threonic acid,1.10942842,B
+Red light,0.831143862,Arabidopsis,Threonic acid,0.831143862,B
+Red light,1.077508286,Arabidopsis,Threonic acid,1.077508286,B
+Dark,0.373592207,Vicia faba,Threonic acid,0.373592207,C
+Dark,1.053453297,Vicia faba,Threonic acid,1.053453297,C
+Dark,0.333236679,Vicia faba,Threonic acid,0.333236679,C
+Dark,0.328279764,Vicia faba,Threonic acid,0.328279764,C
+Dark,0.459206501,Vicia faba,Threonic acid,0.459206501,C
+Red light,1.097489116,Vicia faba,Threonic acid,1.097489116,D
+Red light,0.866816709,Vicia faba,Threonic acid,0.866816709,D
+Red light,0.766684783,Vicia faba,Threonic acid,0.766684783,D
+Red light,0.618526041,Vicia faba,Threonic acid,0.618526041,D
+Red light,0.430013977,Vicia faba,Threonic acid,0.430013977,D

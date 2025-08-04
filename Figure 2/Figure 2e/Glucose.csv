@@ -1,0 +1,21 @@
+Treatment,Intensity,Group,Metabolite,Fold change,Letter
+Dark,152495,Arabidopsis,Glucose,5.183255604,A
+Dark,97193,Arabidopsis,Glucose,4.987634987,A
+Dark,151323,Arabidopsis,Glucose,5.179904943,A
+Dark,195912,Arabidopsis,Glucose,5.292061038,A
+Dark,122735,Arabidopsis,Glucose,5.088968427,A
+Red light,300249,Arabidopsis,Glucose,5.47748157,B
+Red light,194238,Arabidopsis,Glucose,5.288334198,B
+Red light,254966,Arabidopsis,Glucose,5.406482271,B
+Red light,133643,Arabidopsis,Glucose,5.125946216,B
+Red light,527751,Arabidopsis,Glucose,5.722429065,B
+Dark,5333,Vicia faba,Glucose,3.726971584,C
+Dark,3071,Vicia faba,Glucose,3.487279816,C
+Dark,9143,Vicia faba,Glucose,3.96108872,C
+Dark,3671,Vicia faba,Glucose,3.564784385,C
+Dark,19872,Vicia faba,Glucose,4.298241578,C
+Red light,22804,Vicia faba,Glucose,4.358011032,D
+Red light,23067,Vicia faba,Glucose,4.362991116,D
+Red light,18376,Vicia faba,Glucose,4.264250982,D
+Red light,32506,Vicia faba,Glucose,4.511963531,D
+Red light,14663,Vicia faba,Glucose,4.166222835,D

@@ -1,0 +1,21 @@
+Treatment,Intensity,Group,Metabolite,Fold change,Letter
+Dark,1089298.622,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.037146954,A
+Dark,4537167.314,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.656784795,A
+Dark,2180732.812,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.338602458,A
+Dark,2635949.654,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.420937111,A
+Dark,1992967.758,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.299500273,A
+Red light,4560118.638,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.658976142,B
+Red light,6197546.859,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.792219819,B
+Red light,5007833.598,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.69964989,B
+Red light,3145803.08,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.497731533,B
+Red light,6673845.851,Arabidopsis,5-Deoxy-5-methylthio-adenosine,6.824376171,B
+Dark,722751.4424,Vicia faba,5-Deoxy-5-methylthio-adenosine,5.858988967,C
+Dark,507767.3668,Vicia faba,5-Deoxy-5-methylthio-adenosine,5.705664786,C
+Dark,1562705.305,Vicia faba,5-Deoxy-5-methylthio-adenosine,6.193877086,C
+Dark,807388.6613,Vicia faba,5-Deoxy-5-methylthio-adenosine,5.907082646,C
+Dark,465628.2056,Vicia faba,5-Deoxy-5-methylthio-adenosine,5.66803928,C
+Red light,2868745.855,Vicia faba,5-Deoxy-5-methylthio-adenosine,6.457692075,D
+Red light,739307.2193,Vicia faba,5-Deoxy-5-methylthio-adenosine,5.868824947,D
+Red light,1600261.191,Vicia faba,5-Deoxy-5-methylthio-adenosine,6.204190873,D
+Red light,1210069.472,Vicia faba,5-Deoxy-5-methylthio-adenosine,6.082810305,D
+Red light,1782112.005,Vicia faba,5-Deoxy-5-methylthio-adenosine,6.250934996,D
