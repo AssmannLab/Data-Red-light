@@ -1,0 +1,22 @@
+Treatment,Group,Letter,Aperture
+Dark,B,B,0.67709375
+Red light,0mM,C,0.72753125
+Red light,0.4mM,D,1.195402985
+Red light,1mM,E,1.646921569
+Red light,30mM,F,0.8625
+Red light,50mM,G,0.815772727
+Red light,100mM,H,0.612323529
+Dark,B,B,0.321651515
+Red light,0mM,C,0.966433333
+Red light,0.4mM,D,1.499846154
+Red light,1mM,E,1.670633333
+Red light,30mM,F,0.86740625
+Red light,50mM,G,0.712623188
+Red light,100mM,H,0.404283019
+Dark,B,B,0.413673077
+Red light,0mM,C,0.946215686
+Red light,0.4mM,D,1.342632353
+Red light,1mM,E,1.314177419
+Red light,30mM,F,0.7126
+Red light,50mM,G,0.53280315
+Red light,100mM,H,0.6482
